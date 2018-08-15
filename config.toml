@@ -2,3 +2,6 @@ baseURL = "https://community.mahti.org/"
 languageCode = "en-us"
 title = "Community of Kontula"
 theme = "bootie-docs"
+
+[params]
+  description = "A web page for community of Kontula"
