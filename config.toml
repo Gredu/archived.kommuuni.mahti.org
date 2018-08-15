@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://community.mahti.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Community of Kontula"
 theme = "bootie-docs"
