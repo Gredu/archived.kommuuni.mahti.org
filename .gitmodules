@@ -1,3 +1,4 @@
 [submodule "themes/bootie-docs"]
 	path = themes/bootie-docs
 	url = https://github.com/progrhyme/hugo-theme-bootie-docs.git
+  ignore = dirty
