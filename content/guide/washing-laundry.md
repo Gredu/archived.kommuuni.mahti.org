@@ -14,7 +14,7 @@ There are only two programs you mostly use when washing laundry, so it is not th
 
 So two programs you mostly use are normal 60 Celsius and fast 40 Celsius for textiles.
 
-![Washing machine programs](/img/washing-machine.jpg)
+{{% gallery %}}![Washing machine programs](/img/washing-machine.jpg){{% /gallery %}}
 
 If your clothes are very dirty, use the normal 40 Celsius. That program is located just under the normal 60 Celsius program.
 

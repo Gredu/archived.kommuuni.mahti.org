@@ -17,14 +17,11 @@ When you have to dry kettles or pans on a non drying area that is flat, dry it *
 
 Here is a few picture of what **you should not do**:
 
-![Wrong way of drying image 1](/img/drying-wrong-1.jpg)
-![Wrong way of drying image 2](/img/drying-wrong-2.jpg)
-![Wrong way of drying image 2](/img/drying-wrong-3.jpg)
+{{% gallery %}} ![Wrong way of drying image 1](/img/drying-wrong-1.jpg) ![Wrong way of drying image 2](/img/drying-wrong-2.jpg) ![Wrong way of drying image 2](/img/drying-wrong-3.jpg) {{% /gallery %}}
 
 And here how it is done right:
 
-![Right way of drying image 1](/img/drying-right-1.jpg)
-![Right way of drying image 2](/img/drying-right-2.jpg)
+{{% gallery %}} ![Right way of drying image 1](/img/drying-right-1.jpg) ![Right way of drying image 2](/img/drying-right-2.jpg) {{% /gallery %}}
 
 **Make sure there is an air gap!**
 

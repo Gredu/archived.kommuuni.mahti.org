@@ -43,18 +43,13 @@ strong {
 }
 
 img {
-  width: $contentWidth / 1.5;
+  width: 320px;
+  height: 240px;
   display: block;
-  margin: 1em auto 1em auto;
+  margin: .5em;
   border-width: 3px;
   border-style: solid;
   border-color: $window;
-}
-
-
-.container ul {
-  color: $foreground;
-  font-size: $fontSize;
 }
 
 .list-categories {
@@ -97,10 +92,21 @@ img {
 
 .container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   margin: 3.3em 2em;
+}
+
+.container ul {
+  color: $foreground;
+  font-size: $fontSize;
 }
 
 .content {
   width: $contentWidth;
+  margin: 0 auto;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
 }
