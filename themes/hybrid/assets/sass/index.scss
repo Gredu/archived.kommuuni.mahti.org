@@ -102,7 +102,7 @@ img {
 }
 
 .content {
-  width: $contentWidth;
+  max-width: $contentWidth;
   margin: 0 auto;
 }
 
