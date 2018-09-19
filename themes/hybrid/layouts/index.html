@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+{{ $frontPage := .Site.GetPage "front-page.md" }}
+
+<div class="container">
+  <div class="content">
+    <h1>{{ $frontPage.Title }}</h1>
+    {{ $frontPage.Content }}
+  </div>
+</div>
+
+</body>
+</html>

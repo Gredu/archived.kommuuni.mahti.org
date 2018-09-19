@@ -1,0 +1,106 @@
+@import 'hybrid-colors';
+
+$fontSize: .8em;
+$contentWidth: 640px;
+
+body {
+  background-color: $background;
+  margin: 0;
+  font-family: "Bitstream Vera Serif", serif;
+}
+
+a {
+  text-decoration: none;
+  color: $green;
+}
+
+a:hover {
+  color: $orange;
+}
+
+p {
+  color: $foreground;
+  font-size: $fontSize;
+  line-height: 1.45em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: $yellow;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+em {
+  color: $comment;
+}
+
+strong {
+  color: $orange;
+}
+
+img {
+  width: $contentWidth / 1.5;
+  display: block;
+  margin: 1em auto 1em auto;
+  border-width: 3px;
+  border-style: solid;
+  border-color: $window;
+}
+
+
+.container ul {
+  color: $foreground;
+  font-size: $fontSize;
+}
+
+.list-categories {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  > li {
+    float: left;
+    padding-right: 3em;
+    > a {
+      color: $yellow;
+      font-size: 1.8em;
+    }
+    a:hover {
+      color: $orange;
+    }
+  }
+}
+
+.list-category-items {
+  list-style-type: none;
+  padding: 0;
+  > li > a {
+    color: $foreground;
+    font-size: $fontSize;
+  }
+}
+
+.head-wrapper {
+  display: flex;
+}
+
+.header {
+  flex: 1;
+  background-color: $darkcolumn;
+  border-bottom-style: solid;
+  border-width: 3px;
+  border-color: $yellow;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 3.3em 2em;
+}
+
+.content {
+  width: $contentWidth;
+}
