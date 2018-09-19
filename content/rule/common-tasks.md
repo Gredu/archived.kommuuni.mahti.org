@@ -12,7 +12,7 @@ Common tasks in Community:
   - Emptying the dish drying area
   - Emptying the drying cup for spoons, forks, knifes etc.
   - Refilling hand and dish soaps
-  - Buying community [Free For All]({{< ref /rule/free-for-all.md >}})
+  - Buying community [Free For All]({{< ref "/rule/free-for-all.md" >}})
 
 ## Laundry
 Public laundry are stored in the shower room. Everything in that basket is a public laundry and should be washed in 60 Celsius. If you can't get the washing machine full, fulfill with public laundry. It is a good way to make it full and be more [green]({{< ref "/guide/green-and-recycling.md" >}}).
