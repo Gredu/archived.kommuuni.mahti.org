@@ -27,10 +27,10 @@ If you feel like that you don't want to dine on the kitchen table because sheet 
 ## Garbages and recycles
 Emptying recycles and garbages is easy. Just take it to the vestibule. Next who leaves gets to take them out. 
 
-*It seems to be hard to define what garbages or recycles are full. A good rule of thumb is that garbage is full if you can't throw anything to it without garbage falling down. Don't do it in the opposite way! Don't put your trash carefully on the pile so it will not fall... (Seen that done!). Also the trashes in toilet and shower room are full, if it is more easy to leave stuff on top of the flap rather than putting it inside.*
+*It seems to be hard to define what garbages or recycles are full. A good rule of thumb is that garbage is full if you can't throw anything to it without garbage falling down. Don't do it in the opposite way! Don't put your trash carefully on the pile so it will not fall... (Seen that done!). Also, the trashes in toilet and shower room are full, if it is more easy to leave stuff on top of the flap rather than putting it inside.*
 
 ### Bio
-There is duty roster on the door of refrigerator. If you see a blue mark in your name, it is your turn to take bio. When done move the mark to the right. If you are not able to move it the right, put it to the most left. When you move your mark to next person, but you see a red mark, remove it and skip that person.
+There is duty roster on the door of refrigerator. If you see a blue mark in your name, it is your turn to take bio. When you are done, move the mark to the right. If you are not able to move it the right, put it to the most left. When you move your mark to next person, but you see a red mark, remove it and skip that person.
 
 If you see that bio is full, but it is not your turn, you can still take the bio. If you do, put a red mark on your name so other know to skip you next time and remove your mark. You can have many red mark.
 
@@ -39,9 +39,9 @@ If bio looks dirty, you should wash it after you have emptied it.
 ## Drying dishes
 If you don't have room to dry your dishes, then you have to empty the drying area.
 
-*It is actually not that time consuming to do it. Usually it feels hard, because you don't know where to put dishes. They are usually in a very logical location and in easy reach. Perhaps just few steps away.*
+*It is actually not that time-consuming to do it. Usually it feels hard, because you don't know where to put dishes. They are usually in a very logical location and in easy reach. Perhaps just few steps away.*
 
-*It is common that we take care of our own stuff, but this is exception. It might not feel fun to empty some one else's dishes from the drying area, but this is a better way. It is too much of a nuisance to make a timer for yourself when to take out your dishes away.*
+*We usually take care of our own stuff, but this is exception. It might not feel fun to empty someone else's dishes from the drying area, but this way, you don't have to put a timer for yourself when to empty the drying area. I think timer is more nuisance.*
 
 It is good idea to take new plates, forks, knifes etc. from the drying area so the area almost empties itself.
 
