@@ -11,6 +11,26 @@ Community is govern by responsibilities. So you all learn to be the man who walk
 
 Community has some rules, which sometimes you may not understand. It may feel like it is just against you and restricts your freedom. Seek to understand the reasons behind everything.
 
+## Rules
+Rules are just something to free you from thinking too deep. To understand why the rule exist is more important than the rule itself. Instead of trying to follow the rule, try follow the reason why the rule exist.
+
+eg. There is a rule written in the washing powder: "Keep closed". Underlying reason for this, is to not let moisture in. It will get spoiled. It can also get lumpy, which will plug up the washing machine and the soap injection will be weakened.
+
+The rule is actually weak to protect from moisture. You could use the measuring cup to measure water and then put the wet cup back to the washing powder pack and then close the lid. You have successfully followed the rule, but there is now moisture in the washing soap.
+
+How about if all rules would be the same as underlying reason? It will not work. Firstly, too much information. Secondly — if we take the previous example again — you could write "Don't let moisture in", instead of "Keep closed". Now residents would have to understand that if you have lid open, then you'll let moisture in, which is something not everyone may not understand. It is too complicated, and you have to think a little too deep.
+
+*If reason is fully understood, it may protect from something we haven't even thought of, something that by simply stating rules will never cover.*
+
+### Rules for many
+When you want to do something you are not sure if you can do in Community, you can think how would it go if you multiply your doing five times.
+
+This is the reason why you are not allowed to leave your dishes in the kitchen. It is okay, if one or two leaves dishes, but it becomes chaos if everyone does it.
+
+It is same for any stuff you leave in the public area. It is fine if one or two wants to keep stuff in the public area because they don't fit their room, but if everyone does it...
+
+Also, the cleaniness in the public area is on higher priority than your room. Usual reason for leaving dishes or stuff outside your room is have your own room pretty at a cost of getting public area more dirty or garbled. Your dirt belongs to your room, not to the public area.
+
 ## Community as one
 Community can't order everyone to be friends with each other, but it can help to make friendship possible. Here is a few examples:
 
@@ -28,10 +48,10 @@ You should never close the kitchen door. Only close the door if you have burned 
 
 Keeping the kitchen door open makes it feels open for everyone. Kitchen has plenty of room for people to dine or even cook at the same time.
 
-Kitchen door is not the only thing you can use to isolate yourself. You could isolate your self with other ways too, like being on the phone, reading, etc.
+Kitchen door is not the only thing you do to isolate yourself. You could isolate your self with other ways too, like being on the phone, reading, loud music etc.
 
 ### Higher negative impact
-A study showed that your own detached hair doesn't bother you as much as stranger's one. Same goes to any trash. **Your own trash or unwashed dishes doesn't bother you much, but others they bother more. You have to understand that.**
+A study has shown that your own detached hair doesn't bother you as much as stranger's one. Same goes to any trash. **Your own trash or unwashed dishes doesn't bother you much, but others they bother more. It is important that you understand that.**
 
 Clean up your mess!
 
@@ -55,7 +75,7 @@ A true evil is very rare. If you ever see one, you probably can't recognize it. 
 
 This is a guide to improve your social skills in the community. Most of these skills can be used outside of the community, but this guide is specially meant for the community living. There are some reading suggestions in the end of this article if you are more interested in self improvement and leadership.
 
-*This is under construct.*
+*This section is under construct.*
 
 <!--
 ### Lazy
