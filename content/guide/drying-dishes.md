@@ -9,13 +9,13 @@ Sometimes drying area is full of dishes that have not yet dried. Then you just n
 
 *Corrosion happens when liquid and oxygen touches a metal. To be more precise, you need three elements together: metal (like iron), oxygen (usually from atmosphere) and an electrolyte (usually water).*
 
-Never be too lazy to make a room in the drying area for yourself, if dishes are dry and there is no room.
+Be never too lazy to make a room in the drying area for yourself, if dishes are dry and there is no room.
 
-When you have to dry kettles or pans on a non drying area that is flat, dry it **upside down with an air gap**. Makes sure air can "touch" the kettle or pan from every direction.
+When you have to dry kettles or pans on a non-drying area that is flat, dry it **upside down with an air gap**. Makes sure air can "touch" the kettle or pan from every direction.
 
 *Drying is vaporisation. Vaporisation happens when liquid molecules are in touch with an air. A moving air would intensify the vaporisation.*
 
-Here is a few picture of what **you should not do**:
+Here is a few pictures of what **you should not do**:
 
 {{% gallery %}} ![Wrong way of drying image 1](/img/drying-wrong-1.jpg) ![Wrong way of drying image 2](/img/drying-wrong-2.jpg) ![Wrong way of drying image 2](/img/drying-wrong-3.jpg) {{% /gallery %}}
 
