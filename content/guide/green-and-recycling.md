@@ -5,7 +5,7 @@ categories: ["guides"]
 ---
 Kitchen and house warehouse have drop point of different recycling items. When drop point is full, you can take them to the vestibule. Next one who goes out can take those garbages or recycles with him or her to the final point.
 
-Bio has its own rule. **You may not put bio to the vestibule and wait someone to take them!** *It will start to stink. Also most people don't want to take bio and that is why it has special rule.*
+Bio has its own rule. **You may not put bio to the vestibule and wait someone to take them!** *It will start to stink. Most people don't want to take bio and that is why it has special rule.*
 
 ## Recycling
 
@@ -37,13 +37,13 @@ Electronics can be recycled in Gigantti, which is in Itäkeskus.
 Twice a year there will be a big garbage container in our yard. That is when you can throw away stuff that are hard to or illegal to throw on our regular garbage. For example furnitures.
 
 ## Bottles with deposit
-If bottle doesn't have deposit and is plastic, it goes to garbage. If it is metal, it goes to metal recycling.
+If bottle doesn't have a deposit and is plastic, it goes to garbage. If it is metal, it goes to metal recycling.
 
-If bottle has deposit, it will go to deposit recycling point. Usually bottle is marked with deposit tag or text if it has some deposit.
+If a bottle has a deposit, it will go to deposit recycling point. Usually bottle is marked with deposit tag or text if it has some deposit.
 
 *In Finland there are three major market that you can take your bottles to. S- and K-group and then there is Lidl and Alko.*
 
-**Take all bottles to Lidl.** It is the easiest way. Lidl accepts bottles from all. Alko, S- and K-group might not accept some of the bottles.
+**Take all bottles to Lidl.** It is the easiest way. Lidl accepts bottles from all. Alko, S- and K-group might not accept some bottles.
 
 If you are not sure if bottle has a deposit, read the bottle. Usually there is some kind of note of it. Although all Alko bottles have deposit even if it doesn't say so (means all wines, whiskey, rums, etc.).
 
@@ -66,4 +66,4 @@ Few things that can save water, electricity and your time:
   - Cook together
   - Avoid food getting spoiled *share it with other if you are not able to eat it on time*
 
-Also have a look at [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) instruction page for more information.
+Have a look at [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) instruction page for more information.
