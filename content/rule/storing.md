@@ -29,7 +29,7 @@ You can get key to the cellar warehouse from **Greatman**. *Key used to be free 
 ## In house
 You can have items around the house if they are items you use daily or items that anyone can use. Item has to be used often to gain permission to be in the public area. You also need to think of the aesthetic. That is why dirty dishes are not allowed in public area even if you use that dish daily. Unclean dishes can be in kitchen, but only if they are waiting to be cleaned. **Do not store dishes in the kitchen**. Read more from [general rules]({{< ref "/rule/general.md">}}).
 
-Every resident has their own private slots in shelfs, freezer and refrigerator. If owner of a slot is not defined, it is free to use. Everything inside non defined slot is FFA if it doesn't have a name tag.
+Every resident has his or her own private slots in shelfs, freezer and refrigerator. If owner of a slot is not defined, it is free to use. Everything inside non defined slot is FFA if it doesn't have a name tag.
 
 ### Vestibule
 Vestibule has a special role as a room. There you can store your stuff temporary. **Every stored object in vestibule has to have a plan** when they are moved. **Vestibule is a staging area.**

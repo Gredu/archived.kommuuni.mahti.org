@@ -13,11 +13,11 @@ Shared consumables are:
 
 Remember that you may not use public light bulbs in your own room. If you need new light bulbs in your room, you have to buy them yourself.
 
-Any item that has been tagged with **FFA (Free For All)** is for everyone to use. When item has an FFA you may not acquire the ownership of that item. It is for anyone to use or consume. You may not restrict others from accessing the item. *eg. you may not take that item to your room, because then you are restricting access*
+Any item that has been tagged with **FFA (Free For All)** is for everyone to use. When an item has an FFA, you may not acquire the ownership of that item. It is for anyone to use or consume. You may not restrict others from accessing the item. *eg. you may not take that item to your room, because then you are restricting access*
 
 **Any item on the kitchen table is FFA.**
 
-Two most bottom slots in refrigerator is an area for anyone to use. If there are items that are untagged they are automatically FFA. If you want to hold the ownership of an item, but you still want to keep them in neutral area, you have to put your own name tag on it. Same goes to the freezer.
+Two most bottom slots in refrigerator is an area for anyone to use. If there are items that are untagged, they are automatically FFA. If you want to hold the ownership of an item, but you still want to keep them in neutral area, you have to put your own name tag on it. Same goes to the freezer.
 
 Any rice left to the rice-cooker is FFA. *This is to avoid them staying there too long. They get spoiled.*
 
