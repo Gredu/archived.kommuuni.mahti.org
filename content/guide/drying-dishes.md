@@ -15,7 +15,12 @@ When you have to dry kettles or pans on a non-drying area that is flat, dry it *
 
 *Drying is vaporisation. Vaporisation happens when liquid molecules are in touch with an air. A moving air would intensify the vaporisation.*
 
-Here is a few pictures of what **you should not do**:
+Prioritization order:
+
+  - if everything is dry in the drying area, empty it and put your things there **this includes the kettles and pans!**
+  - if everything is still wet in the drying area, then and only then, use the flat surface to dry
+
+Here is a few pictures of what **you should not do on the flat surface**:
 
 {{% gallery %}} ![Wrong way of drying image 1](/img/drying-wrong-1.jpg) ![Wrong way of drying image 2](/img/drying-wrong-2.jpg) ![Wrong way of drying image 2](/img/drying-wrong-3.jpg) {{% /gallery %}}
 
