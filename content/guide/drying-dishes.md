@@ -11,7 +11,7 @@ Sometimes drying area is full of dishes that have not yet dried. Then you just n
 
 Be never too lazy to make a room in the drying area for yourself, if dishes are dry and there is no room.
 
-When you have to dry kettles or pans on a non-drying area that is flat, dry it **upside down with an air gap**. Makes sure air can "touch" the kettle or pan from every direction.
+When you have to dry kettles or pans on a non-drying area that is flat, dry it **upside down with an air gap**. Make sure that air can "touch" the kettle or pan from every direction.
 
 *Drying is vaporisation. Vaporisation happens when liquid molecules are in touch with an air. A moving air would intensify the vaporisation.*
 
