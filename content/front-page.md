@@ -2,7 +2,7 @@
 title: "Community of Kontula"
 date: 2018-08-16T22:23:21+03:00
 ---
-Community of Kontula is a home for five people. The diversity of residents is high, people with different culture and background. This has been very richening experience, although it has brought up some very interesting challenges. It might be very hard to know what behaviors are cultural and what are personal and therefor setting right rules is not always an easy task.
+Community of Kontula is a home for five people. The diversity of residents is high, people with different culture and background. This has been very richening experience, although it has brought up some very interesting challenges. It might be very hard to know what behaviors are cultural and what are personal. Therefor setting right rules is not always an easy task.
 
 This web page is an attempt to get residents to understand these differences and help them integrate more easily to the community and to the Finnish society. Also, some residents are living alone from their parents for the first time, so there are lot to learn. A hub of information that is easily accessible is needed.
 
@@ -12,9 +12,9 @@ Community of Kontula has only two goals for its residents:
   - Wellbeing of a single person
   - Wellbeing of Community as a group
 
-These two rules are equally important. Balancing them is hard and they can be contradicted. Also, for some person "wellbeing" can mean different things.
+These two rules are equally important. Balancing them is hard and they can contradict. Also, for some person "wellbeing" can mean different things.
 
-To achieve our goals, we have chosen that the form of government in our Community is based on responsibilities. Each resident is given a responsibility and ability to make rules. We try to keep rules minimum, and we trust more of person's own morale and ethic. This will hopefully also strengthen the trust between residents.
+To achieve our goals, we have chosen that the form of government in our Community is based on responsibilities. Each resident is given a responsibility and ability to make rules. We try to keep rules minimum, and we trust more of one's own morale and ethic. This will hopefully also strengthen the trust between residents.
 
 ## We are green
 Every resident in community is obligated to be green. This means recycling and moderate usage of water and electricity. More in [Green and Recycling]({{< ref "/guide/green-and-recycling.md" >}}) section.
