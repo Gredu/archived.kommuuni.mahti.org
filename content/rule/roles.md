@@ -29,3 +29,10 @@ Remember that governing something doesn't mean you actually have to do everythin
 You should feel that the area you are governing is your kingdom. Make rules and make it more efficient.
 
 Aside from the work that comes from your role, there are also [common tasks]({{< ref "/rule/common-tasks.md" >}}). Those tasks are so small that they are not counted to your work hour. **if the common task is in your area of govern, you have to make sure that other and you are carrying that task.**
+
+If you are out for vacations more than two weeks, **Anshul** or **Greatman** will take your place temporarely. Temporaly substitution doesn't include responsibility though, just a regular cleaning.
+
+## What if I'm lazy and I have trillionz of money?
+You can hire someone to handle your responsibilities, but you need to find that person yourself. You will also have to look over him or her that she or he actually carries his or her duty. You can not get someone in the Community to take care of your responsibilities, because he or she will be overworked.
+
+You can't buy yourself out from the [common tasks]({{< ref "/rule/common-tasks.md" >}}).
