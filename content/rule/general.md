@@ -24,7 +24,7 @@ If **Suvi** is sleeping, use shower room for toilet needs instead of the small t
 
 If **Filmon** is sleeping, don't watch movies in the living room or have lights open too long in the vestibule.
 
-If **Greatman** and/or **Anshul** area sleeping, be more gentle with the shower room door.
+If **Greatman** and/or **Anshul** are sleeping, be more gentle with the shower room door.
 
 Rooms are quite good at isolating noises. **Worse are the noises that comes from slamming the doors!**
 
