@@ -47,7 +47,7 @@ If a bottle has a deposit, it will go to deposit recycling point. Usually bottle
 
 If you are not sure if bottle has a deposit, read the bottle. Usually there is some kind of note of it. Although all Alko bottles have deposit even when it doesn't say so (means all wines, whiskey, rums, etc.).
 
-All money from deposit will go to Community Bank. You'll have to give the money and the receipt from the deposit to **Greatman**.
+All money from deposit will go to Community Bank. You'll have to give the money and the receipt from the deposit to {{< role leader >}}.
 
 ## Bio
 Throw only food waste to the bio. No plastic of any sort (no packaging plastic!). More information can be found at [HSY](https://www.hsy.fi/en/residents/sorting/instructions/biowaste/Pages/default.aspx).

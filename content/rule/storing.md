@@ -24,7 +24,7 @@ All public laundry is also stored in the small warehouse.
 ### Cellar warehouse
 Store anything that you rarely use. *eg. traveling bag*
 
-You can get key to the cellar warehouse from **Greatman**.
+You can get key to the cellar warehouse from {{< role leader >}}.
 
 ## In house
 You can have items around the house if they are items you use daily or items that anyone can use. Item has to be used often to gain permission to be in the public area. You also need to think of the aesthetic. **Do not store dishes in the kitchen**. Read more from [general rules]({{< ref "/rule/general.md">}}).
