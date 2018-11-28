@@ -35,4 +35,6 @@ If you are out for vacations more than two weeks, {{< role general >}} or {{< ro
 ## What if I'm lazy and I have trillionz of money?
 You can hire someone to handle your responsibilities, but you need to find that person yourself. You will also have to look over him or her that she or he actually carries his or her duty. You can not get someone in the Community to take care of your responsibilities, because he or she would be overworked.
 
+Minimum wage is 20 € per month.
+
 You can't buy yourself out from the [common tasks]({{< ref "/rule/common-tasks.md" >}}).
