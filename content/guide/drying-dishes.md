@@ -3,7 +3,7 @@ title: "Drying Dishes"
 date: 2018-08-17T16:49:00+03:00
 categories: ["guides"]
 ---
-There are two drying area. One for small things like fork, knife and spoons (a cup). Other is for kettles, plates etc (in the shelf). If they are full and dry, you have to empty them. That is a [common task]({{< ref "/rule/common-tasks.md" >}}).
+There are two drying area. One for small things like fork, knife and spoons (it is just a cup). Other is for kettles, plates etc (in the shelf). If they are full and dry, you have to empty them. That is a [common task]({{< ref "/rule/common-tasks.md" >}}).
 
 Sometimes drying area is full of dishes that have not yet dried. Then you just need to use (and only then!) area that is not a drying area *eg. kitchen table*. **Never dry anything on the oven.** *It causes corrosion.*
 
@@ -11,7 +11,7 @@ Sometimes drying area is full of dishes that have not yet dried. Then you just n
 
 Be never too lazy to make a room in the drying area for yourself, if dishes are dry and there is no room.
 
-When you have to dry kettles or pans on a non-drying area that is flat, dry it **upside down with an air gap**. Make sure that air can "touch" the kettle or pan from every direction.
+When you have to dry kettles or pans on a non-drying area that is flat, dry it **upside down with an air gap**. Make sure that air can "touch" the kettle or pan from every angle.
 
 *Drying is vaporisation. Vaporisation happens when liquid molecules are in touch with an air. A moving air would intensify the vaporisation.*
 

@@ -3,33 +3,33 @@ title: "Psychology"
 date: 2018-08-17T00:01:26+03:00
 categories: ["guides"]
 ---
-There was already a good example of how rule are set. There is two level of rule. A rule itself and the underlying reason why that rule exist. For community, it is better that you understand the reason behind the rule, and that you will not just blindly follow the rule. You may always break the rule, but never the reason behind the rule.
+There was already a good example of how rules are set. They have two levels, the rule itself and the underlying reason why that rule exist. As a resident of the Community, it is better that you understand the reason behind the rule. Don't just blindly follow the rule. **You may always break the rule, but never the reason behind the rule.**
 
-Another good example is a man who is walking his dog. Dog has no idea why it is on the leash. There are lots of interesting and fun things to do but the man restricts it. For the man, it is also not very pleasant. It would be nice to let the dog just run freely. Now both suffer.
+Another good example is a man who is walking his dog. Dog has no idea why it is on the leash. There are lots of interesting and fun things to do but the man restricts it. For the man, it is also not very pleasant. It would be nice to let the dog just run freely. The result is that both suffers.
 
 Community is govern by responsibilities. So you all learn to be the man who walks the dog. Restrict for safety and wellbeing.
 
-Community has some rules, which sometimes you may not understand. It may feel like it is just against you and restricts your freedom. Seek to understand the reasons behind everything.
+Community has some rules, which sometimes you may not understand. It may feel like it is just against you and restricts your freedom. Seek to understand the reasons behind rules! Don't be the dog!
 
 ## Rules
 Rules are just something to free you from thinking too deep. To understand why the rule exist is more important than the rule itself. Instead of trying to follow the rule, try follow the reason why the rule exist.
 
 eg. There is a rule written in the washing powder: "Keep closed". Underlying reason for this, is to not let moisture in. It will get spoiled. It can also get lumpy, which will plug up the washing machine and the soap injection will be weakened.
 
-The rule is actually weak to protect from moisture. You could use the measuring cup to measure water and then put the wet cup back to the washing powder pack and then close the lid. You have successfully followed the rule, but there is now moisture in the washing soap.
+The rule is actually weak to protect moisture getting. You could use the measuring cup to measure water and then put the wet cup back to the washing powder pack and then close the lid. You have successfully followed the rule (keep closed), but there is now moisture in the washing soap.
 
 How about if all rules would be the same as underlying reason? It will not work. Firstly, too much information. Secondly — if we take the previous example again — you could write "Don't let moisture in", instead of "Keep closed". Now residents would have to understand that if you have lid open, then you'll let moisture in, which is something not everyone may not understand. It is too complicated, and you have to think a little too deep.
 
 *If reason is fully understood, it may protect from something we haven't even thought of, something that by simply stating rules will never cover.*
 
 ### Rules for many
-When you want to do something you are not sure if you can do in Community, you can think how would it go if you multiply your doing five times.
+When you want to do something you are not sure if you can do in Community, you can think what would happen if you what you want to do is multiplied by five.
 
 This is the reason why you are not allowed to leave your dishes in the kitchen. It is okay, if one or two leaves dishes, but it becomes chaos if everyone does it.
 
 It is same for any stuff you leave in the public area. It is fine if one or two wants to keep stuff in the public area because they don't fit their room, but if everyone does it...
 
-Also, the cleaniness in the public area is on higher priority than your room. Usual reason for leaving dishes or stuff outside your room is have your own room pretty at a cost of getting public area more dirty or garbled. Your dirt belongs to your room, not to the public area.
+Also, the cleaniness in the public area is on higher priority than your room. Usual reason for leaving dishes or stuff outside of your room, is to make your room pretty at the cost of getting public area more dirty or garbled. Your dirt belongs to your room, not to the public area.
 
 ## Community as one
 Community can't order everyone to be friends with each other, but it can help to make friendship possible. Here is a few examples:
@@ -42,7 +42,7 @@ Community can't order everyone to be friends with each other, but it can help to
 It is really up to residents if they use these.
 
 ### Don't isolate
-Usually people isolate them self, because they don't want to bother other. However, this is a wrong way of thinking. When you isolate yourself, most people think that you hate them. So your way of isolating yourself is usually misunderstood.
+Usually people isolate them self, because they don't want to bother other. However, this is a wrong way of thinking. When you isolate yourself, most people think that you dislike them. So your way of isolating yourself is usually misunderstood.
 
 You should never close the kitchen door. Only close the door if you have burned something in the kitchen and you are trying to avoid smoke from spreading.
 
@@ -58,7 +58,7 @@ Clean up your mess!
 *This is one of the reasons why you have to take unwashed dishes to your own room.*
 
 ### Communication
-Best communication happens when it is not forced. That happens when you are just chit chatting. Community and you may get many great benefits of it:
+Best communication happens when it is not forced. That happens when you are just chit chatting. Community and you may get many great benefits from great communication:
 
  - Know where are the best offer of something (fruits, meats, etc.)
  - Perhaps there is something we should party?
@@ -66,14 +66,14 @@ Best communication happens when it is not forced. That happens when you are just
  - Plan new rules for Community
  - Declare new or remove [Free For All]({{< ref "/rule/free-for-all.md" >}}) items?
 
-Many times you just want something and you just didn't know that everyone wanted the same thing. With Community power, we can do more and more cheaper.
+Many times you just want something and you just didn't know that everyone wanted the same thing. With Community power, we can do more with less money.
 
 Isolation kills the communication.
 
 ## The Evil Person
-A true evil is very rare. If you ever see one, you probably can't recognize it. Instead it is very likely that you believe he, she or it is in a side of good. Most of the time we misunderstand laziness, stupidity and self centered as an evil. They are also very intertwined and are sometimes very hard to reason separately. Usually person is not aware if he or she is lazy, stupid or self centered. 
+A true evil is very rare. If you ever see one, you probably can't recognize it. Instead, it is very likely that you believe he, she or it is in a side of good. Most of the time we misunderstand laziness, stupidity and self centered as an evil. They are also very intertwined and are sometimes very hard to reason separately. Usually person is not aware if he or she is lazy, stupid or self centered. 
 
-This is a guide to improve your social skills in the community. Most of these skills can be used outside of the community, but this guide is specially meant for the community living. There are some reading suggestions in the end of this article if you are more interested in self improvement and leadership.
+This is a guide to improve your social skills in the community. Most of these skills can be used outside of the community, but this guide is specially meant for the community living. There are some reading suggestions in the end of this article if you are more interested in self-improvement and leadership.
 
 *This section is under construct.*
 
