@@ -22,7 +22,9 @@ Green carpet in the shower room should be washed in 40 Celsius.
 ## Kitchen sheet
 If you feel that the sheet of the kitchen table is dirty, you can change it. Just take it to the public laundry basket in the shower room and get the new one from the house warehouse. It is located just right when you get in.
 
-**Don't dine on top of bare table without a sheet.** *Don't be lazy. Just change the sheet if it feels dirty.* **Peeling the sheet little so that the bare table is exposed so you can use the cleaner base is extremely stupid, lazy and mentaly retarded. It means that you know that it is unclean, but you don't want to do anything to it, even when it requires very little of effort.**
+**Don't dine on top of bare table without a sheet. Don't be lazy. Just change the sheet if it feels dirty.**
+
+**Peeling the sheet little so that the bare table is exposed so you can use the cleaner base is extremely stupid, lazy and mentaly retarded. It means that you know that it is unclean, but you don't want to do anything to it, even when it requires very little of effort.**
 
 ## Garbages and recycles
 Emptying recycles and garbages is easy. Just take it to the vestibule. Next who leaves gets to take them out. 
