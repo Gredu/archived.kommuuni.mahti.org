@@ -35,7 +35,7 @@ Every resident has his or her own private slots in shelfs, freezer and refrigera
 Vestibule has a special role as a room. There you can store your stuff temporary. **Every stored object in vestibule has to have a plan** when they are moved. **Vestibule is a staging area.**
 
 ### Kitchen table
-Everything in the kitchen table is FFA.
+Everything on the kitchen table is FFA.
 
 ### Side slots in the kitchen
 Side slots are located just left when you get in the kitchen. Three most bottom slots are for fruits. There is no rule who owns the slots, but there seems to be no problem of who owns what. Just keep different fruits in different slots.
