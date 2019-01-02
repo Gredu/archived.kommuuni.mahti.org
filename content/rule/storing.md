@@ -38,4 +38,4 @@ Vestibule has a special role as a room. There you can store your stuff temporary
 Everything in the kitchen table is FFA.
 
 ### Side slots in the kitchen
-Side slots are located just left when you get in the kitchen. Three most bottom slots are for fruits. If slot is empty, you can own it by putting a fruit in there. Where there is no fruit, you will lose the ownership of that slot.
+Side slots are located just left when you get in the kitchen. Three most bottom slots are for fruits. There is no rule who owns the slots, but there seems to be no problem of who owns what. Just keep different fruits in different slots.
