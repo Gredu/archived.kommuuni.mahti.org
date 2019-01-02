@@ -2,7 +2,6 @@
 title: "Community of Kontula"
 date: 2018-08-16T22:23:21+03:00
 ---
-#Foo!
 Community of Kontula is a home for five residents. Our diversity is high. We have people with very different cultures and backgrounds. This has been very richening experience, although it has brought up some very interesting challenges. It might be very hard to know what behaviors are cultural and what are personal. Therefor setting right rules is not always an easy task.
 
 This web page is an attempt to get residents to understand these differences and help them integrate more easily to the community and to the Finnish society. Also, some residents are living alone from their parents for the first time. There are lot to learn, so a hub of information that is easily accessible is needed. This webpage is made to fullfil that need.
