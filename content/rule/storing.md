@@ -3,7 +3,7 @@ title: "Storing"
 date: 2018-08-17T14:00:53+03:00
 categories: ["rules"]
 ---
-There are lots of places you can store your stuff. Actually the whole house is a one big storing area... Just make sure that you store right item to a right place.
+There are lots of places you can store your stuff. Actually the whole house is a one big storing area... Just make sure that you store items to a right place.
 
 Any item found in the public area is free to use. For small cheap things you don't need to ask permission, but do return it back. If you can't return it, report it missing, and we'll see how you can compensate.
 
