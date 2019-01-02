@@ -39,3 +39,6 @@ Everything on the kitchen table is FFA.
 
 ### Side slots in the kitchen
 Side slots are located just left when you get in the kitchen. Three most bottom slots are for fruits. There is no rule who owns the slots, but there seems to be no problem of who owns what. Just keep different fruits in different slots.
+
+### Plate located left to the oven
+Only store onions and bread. Onions have to have a name tag, else it is FFA.
