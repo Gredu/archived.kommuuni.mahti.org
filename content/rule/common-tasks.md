@@ -38,6 +38,8 @@ If you see that bio is full, but it is not your turn, you can still take the bio
 
 If bio looks dirty, you should wash it after you have emptied it.
 
+If you see a yellow mark, skip it without removing it. Yellow mark is a permament skip if he or she is away more than a week. Only {{< role leader >}} can give you the yellow mark.
+
 ## Drying dishes
 If you don't have room to dry your dishes, then you have to empty the drying area.
 
