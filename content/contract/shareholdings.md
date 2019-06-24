@@ -16,8 +16,10 @@ Land lord will buy all shares if community is dissolved.
 Table shows the individual's price of the share. This is the price resident will get, when she or he leaves and the price that new resident has to pay. *Table is not done yet!*
 
 ## Washing machine
-
 Washing machine was bought in January 2016. Price was 299.0 €.
+
+## Freezer
+Freezer was bought in June 2019. Price was 555.89 €. Price will start dropping in July.
 
 ## Toothbrush
 Toothbrush was bought in December 2016. Price was 49.90 €.
