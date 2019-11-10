@@ -1,4 +1,16 @@
 baseURL = "https://community.mahti.org/"
-languageCode = "en-us"
-title = "Community of Kontula"
+
+DefaultContentLanguage = "fi"
+languageCode = "fi-fi"
+
 theme = "hybrid"
+
+[languages]
+  [languages.fi]
+    title = "Kontulan Kommuuni"
+    weight = 1
+  [languages.en]
+    title = "Community of Kontula"
+    weight = 2
+
+

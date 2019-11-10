@@ -3,7 +3,7 @@ title: "Drying Dishes"
 date: 2018-08-17T16:49:00+03:00
 categories: ["guides"]
 ---
-There are two drying area. One for small things like fork, knife and spoons (it is just a cup). Other is for kettles, plates etc (in the shelf). If they are full and dry, you have to empty them. That is a [common task]({{< ref "/rule/common-tasks.md" >}}).
+There are two drying area. One for small things like fork, knife and spoons (it is just a cup). Other is for kettles, plates etc (in the shelf). If they are full and dry, you have to empty them. That is a [common task]({{< ref "/saanto/yleiset-saannot.en.md" >}}).
 
 Sometimes drying area is full of dishes that have not yet dried. Then you just need to use (and only then!) area that is not a drying area *eg. kitchen table*. **Never dry anything on the oven.** *It causes corrosion.*
 

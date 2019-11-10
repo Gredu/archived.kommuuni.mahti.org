@@ -52,7 +52,7 @@ All money from deposit will go to Community Bank. You'll have to give the money 
 ## Bio
 Throw only food waste to the bio. No plastic of any sort (no packaging plastic!). More information can be found at [HSY](https://www.hsy.fi/en/residents/sorting/instructions/biowaste/Pages/default.aspx).
 
-Emptying bio is a [common task]({{< ref "/rule/common-tasks.md" >}}).
+Emptying bio is a [common task]({{< ref "/saanto/yleiset-saannot.en.md" >}}).
 
 
 ## Being green

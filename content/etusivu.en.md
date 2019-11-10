@@ -17,13 +17,13 @@ These two rules are equally important. Balancing them is hard and they can contr
 To achieve our goals, we have chosen that the form of government in our Community is based on responsibilities. Each resident is given a responsibility and ability to make rules. We try to keep rules minimum, and we trust more of one's own morale and ethic. This will hopefully also strengthen the trust between residents.
 
 ## We are green
-Every resident in community is obligated to be green. This means recycling and moderate usage of water and electricity. More in [Green and Recycling]({{< ref "/guide/green-and-recycling.md" >}}) section.
+Every resident in community is obligated to be green. This means recycling and moderate usage of water and electricity. More in [Green and Recycling]({{< ref "/ohje/ekologisuus-ja-kierratys.en.md" >}}) section.
 
 ## Reasoning and common sense
-Everything written in *italic* is usually an explanation. You don't have to read them if you just agree to follow the rules without breaking them. You can break the rules if you understand the reason why the rule exist, and by breaking the rule, you don't actually break the fundamental reason of why that rule exist. More of this in [psychology]({{< ref "/guide/psychology.md" >}}) section.
+Everything written in *italic* is usually an explanation. You don't have to read them if you just agree to follow the rules without breaking them. You can break the rules if you understand the reason why the rule exist, and by breaking the rule, you don't actually break the fundamental reason of why that rule exist. More of this in [psychology]({{< ref "/ohje/kaytossaannot.en.md" >}}) section.
 
 It is recommended to read explanations and take some time thinking them. You could actually come up with better rule. Every rule has a reason to exist. Your life can get more easy if you know when to break the rules.
 
 ## Recommended read order
 
-Read all **Rules**. Only read **Guides** if you need some help or someone has implicitly referred you to. You should read [psychology]({{< ref "/guide/psychology.md" >}}) though.
+Read all **Rules**. Only read **Guides** if you need some help or someone has implicitly referred you to. You should read [psychology]({{< ref "/ohje/kaytossaannot.en.md" >}}) though.

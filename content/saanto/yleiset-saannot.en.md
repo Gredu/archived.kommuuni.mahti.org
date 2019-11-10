@@ -36,7 +36,7 @@ You are not allowed to store unclean dishes in the kitchen. If you are unable to
 An exception to these rules applies only if you are with your friends. Only then you may leave unclean dishes for a short time.
 
 ## Bottles with deposit
-Bottles with deposit are collected in the kitchen. All money will go to the [community bank]({{< ref "/contract/community-bank.md" >}}). If there is a big party eg. Halloween or pre-christmast, the money will be first spent to cover the party expenses.
+Bottles with deposit are collected in the kitchen. All money will go to the [community bank]({{< ref "/sopimus/kommuunipankki.en.md" >}}). If there is a big party eg. Halloween or pre-christmast, the money will be first spent to cover the party expenses.
 
 *Think this as a party tax. Also, it is more convinient to keep all the bottles in the kitchen. It makes your own room cleaner. We simply don't have anough space for everyone to have their own bottle slot in the kitchen.*
 

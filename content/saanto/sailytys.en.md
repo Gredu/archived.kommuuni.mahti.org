@@ -27,7 +27,7 @@ Store anything that you rarely use. *eg. traveling bag*
 You can get key to the cellar warehouse from {{< role leader >}}.
 
 ## In house
-You can have items around the house if they are items you use daily or items that anyone can use. Item has to be used often to gain permission to be in the public area. You also need to think of the aesthetic. **Do not store dishes in the kitchen**. Read more from [general rules]({{< ref "/rule/general.md">}}).
+You can have items around the house if they are items you use daily or items that anyone can use. Item has to be used often to gain permission to be in the public area. You also need to think of the aesthetic. **Do not store dishes in the kitchen**. Read more from [general rules]({{< ref "/saanto/yleiset-saannot.en.md">}}).
 
 Every resident has his or her own private slots in shelfs, freezer and refrigerator. If owner of a slot is not defined, it is free to use. Everything inside non defined slot is FFA if it doesn't have a name tag.
 

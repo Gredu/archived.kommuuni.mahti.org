@@ -14,7 +14,7 @@
     <div class="head-wrapper">
       <div class="header">
         <ul class="list-categories">
-          <li><a href="{{ $baseUrl }}"><span>Front Page</span></a></li>
+          <li><a href="{{ $baseUrl }}"><span>Etusivu</span></a></li>
           {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
           <li>
             <a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">

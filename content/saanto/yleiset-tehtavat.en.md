@@ -12,10 +12,10 @@ Common tasks in Community:
   - Emptying the dish drying area
   - Emptying the drying cup for spoons, forks, knifes etc.
   - Refilling hand and dish soaps
-  - Buying community consumables [Free For All]({{< ref "/rule/free-for-all.md" >}}) items
+  - Buying community consumables [Free For All]({{< ref "/saanto/kaikille-yhteiset.en.md" >}}) items
 
 ## Laundry
-Dirty public laundry are located in the shower room. Everything in the dirty basket is a public laundry and should be washed in 60 Celsius. If you can't get the washing machine full, fulfill with public laundry. It is a good way to make it full and be more [green]({{< ref "/guide/green-and-recycling.md" >}}).
+Dirty public laundry are located in the shower room. Everything in the dirty basket is a public laundry and should be washed in 60 Celsius. If you can't get the washing machine full, fulfill with public laundry. It is a good way to make it full and be more [green]({{< ref "/ohje/ekologisuus-ja-kierratys.en.md" >}}).
 
 Green carpet in the shower room should be washed in 40 Celsius.
 
@@ -57,4 +57,4 @@ Refill hand soaps and dish soap when they are empty. Hand soap can be found from
 ## Common sense
 Common sense is never written here, but are shouted in the group chat. *eg. if there are one toilet paper left in the shower room, you should get more. Don't play roulette with toilet*
 
-Of course, common sense can sometime be very hard to reason because of cultural differences. If that is the case they'll be written here or to the [general]({{< ref "/rule/general.md">}}) rules.
+Of course, common sense can sometime be very hard to reason because of cultural differences. If that is the case they'll be written here or to the [general]({{< ref "/saanto/yleiset-saannot.en.md">}}) rules.

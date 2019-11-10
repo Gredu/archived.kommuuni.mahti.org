@@ -64,7 +64,7 @@ Best communication happens when it is not forced. That happens when you are just
  - Perhaps there is something we should party?
  - Someone is going somewhere and you could get a ride?
  - Plan new rules for Community
- - Declare new or remove [Free For All]({{< ref "/rule/free-for-all.md" >}}) items?
+ - Declare new or remove [Free For All]({{< ref "/saanto/kaikille-yhteiset.en.md" >}}) items?
 
 Many times you just want something and you just didn't know that everyone wanted the same thing. With Community power, we can do more with less money.
 

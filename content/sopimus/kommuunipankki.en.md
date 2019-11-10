@@ -9,4 +9,4 @@ Accounting happens in the [Google Sheet](https://docs.google.com/spreadsheets/d/
 
 Anyone can make a purchace to the community. Just give receipt to {{< role leader >}} and you will get money back. If you are not sure if that item is necessary to the community, buy it anyway. You'll be told to not buy it anymore if item was unnecessary. *Learn by mistakes.*
 
-You should check out the shared consumables in [Free For All]({{< ref "/rule/free-for-all.md" >}}) section. Most money goes to purchacing those items.
+You should check out the shared consumables in [Free For All]({{< ref "/saanto/kaikille-yhteiset.en.md" >}}) section. Most money goes to purchacing those items.
