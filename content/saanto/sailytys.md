@@ -5,7 +5,7 @@ categories: ["säännöt"]
 ---
 Tavaroita voi säilyttää tai pitää monessa paikassa, kunhan pitää vain huolta, että tavarat ovat niille tarkoiteutuilla paikoilla.
 
-Pienet esineet ja tavarat (vasara, vatupassi, isot kulhot, lautapelit, jne.), joita säilytetään yleisissä tiloissa ovat kaikkien käytettävissä. Jos käytät jotain, mikä ei ole omaisuuttasi, muista palauttaa se tismalleen samaan paikkaan! Mikäli et pysty palauttamaan, kannattaa siitä raportoida **Gredulle**, ja katsotaan miten tavara voidaan korvata.
+Pienet esineet ja tavarat (vasara, vatupassi, isot kulhot, lautapelit, jne.), joita säilytetään yleisissä tiloissa ovat kaikkien käytettävissä. Jos käytät jotain, mikä ei ole omaisuuttasi, muista palauttaa se tismalleen samaan paikkaan! Mikäli et pysty palauttamaan, kannattaa siitä raportoida {{< role leader >}}lle, ja katsotaan miten tavara voidaan korvata.
 
 *Yleensä pienten esineiden tai tavaroiden kadottamisesta ei joudu maksamaan mitään. Kannattaa silti ilmoittaa, koska silloin muiden ei tarvitse yllättyä, kun kyseinen esine ei olekaan enää käytettävissä.*
 
@@ -27,9 +27,9 @@ Komerovarastossa säilytetään Kontulan Kommuunin yleiset pyykit.
 Varastossa säilytetään kaikki harvoin käytetyt esineet tai tavarat mukaanlukien kesä- ja talvirenkaat. 
 
 ## Säilytys asuintiloissa
-Asuintiloissa saa säilyttää sellaisia tavaroita tai esineitä, joita itse käyttää päivittäin tai mikä on myös muiden asukkaiden käytössä. Jos esine on muiden asukkaiden käytettävissä, sen on oltava sen verran suosittu, että sitä myös käyttää vähintään kaksi henkilöä säännöllisesti.
+Asuintiloissa saa säilyttää sellaisia tavaroita tai esineitä, joita itse käyttää päivittäin tai mikä on myös muiden asukkaiden käytössä. Jos esine on muiden asukkaiden käytettävissä, sen on oltava sen verran suosittu, että sitä käyttää vähintään kaksi henkilöä säännöllisesti.
 
-Esineen tai tavaran pitäminen yleisissä tiloissa ei saa aiheuttaa esteettistä haittaa. **Älä säilytä tiskaamattomia astioita keittiössä.** Lue lisää [yleisistä säännöistä]({{< ref "/saanto/yleiset-saannot.md" >}}).
+**Esineen tai tavaran pitäminen yleisissä tiloissa ei saa aiheuttaa esteettistä haittaa. Älä säilytä tiskaamattomia astioita keittiössä.** Lue lisää [yleisistä säännöistä]({{< ref "/saanto/yleiset-saannot.md" >}}).
 
 Jokaisella asukkaalla on henkilökohtaiset säilytystilat jääkaapissa, pakastimessa ja keittiön hyllyissä. Näiden lisäksi on FFA-alueita, joissa voi myös säilyttää. Lue lisää [kaikille yhteisistä FFA osiossa]({{< ref "/saanto/kaikille-yhteiset.md" >}}).
 
@@ -39,10 +39,8 @@ Eteinen toimii lastausalueena. Siellä saa säilyttää tavaroita tai esineitä,
 ### Keittiön pöytä
 Kaikki mikä on jätetty keittiön pöydälle on kaikkien asukkaiden käytössä ja kulutettavissa. [FFA-osiosta]({{< ref "/saanto/kaikille-yhteiset.md" >}}) voi lukea lisää.
 
-### Sivuhyllyt keittiössä
-Sivuhyllyt sijaitsevat heti vasemmalla, kun keittiöön tulee eteisen kautta.
-
-Kolme alinta hyllyä ovat hedelmille. Näitä hyllyjä ei kukaan omista, vaan hyllyn omistajuuden saa henkilö, joka ensimmäiseksi laittaa hedelmänsä tyhjään hyllyyn. Hedelmiin ei tarvitse laittaa nimimerkkiä. Jokainen omistaa omat hedelmänsä. Toistaiseksi ei ole tullut ongelmia siitä, kuka omistaa mitkäkin hedelmät. Pääsääntöisesti yhden hyllyn hedelmät ovat kaikki yhden henkilön omaisuutta.
+### Hedelmähyllyt keittiössä
+Hedelmähyllyt sijaitsevat heti vasemmalla, kun keittiöön tulee eteisen kautta.  Kolme alinta hyllyä ovat hedelmille.
 
 ### Hellan vasemmalla puolella oleva astia
 Säilytä vain sipuleita ja leipiä. Sipuleilla on oltava nimimerkki tai muuten se on kaikkien käytössä. Tämä on myös [FFA]({{< ref "/saanto/kaikille-yhteiset.md" >}}) aluetta.

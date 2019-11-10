@@ -10,8 +10,10 @@ Kaikille yhteiset kulutettavat tuotteet:
   - vessapaperi
   - tiskiaine
   - käsisaippua
+  - yleiset pesuaineet
   - folio
   - uunipaperi / voipaperi
+  - laastarit
 
 Makuuhuoneissa olevat lamput ovat henkilökohtaisia, eli kommuunipankki ei kustanna näitä.
 
@@ -32,6 +34,7 @@ Vielä lyhyenä yhteenvetona. Täysin FFA-alue:
 
 Ja FFA-alue, mutta nimimerkillä voi suojata:
 
+  - lääkehylly pienessä vessassa
   - jääkaapin alin hylly
   - maustehylly
   - säilytystilat

@@ -1,5 +1,5 @@
 ---
-title: "Roolit"
+title: "Vastuualueet"
 date: 2018-08-15T22:38:05+03:00
 categories: ["säännöt"] 
 ---
@@ -19,15 +19,15 @@ Vastuualueet:
 
 *Yleisen tilojen vastaava joutuu siivoamaan myös keittiön lattian, koska on helpompaa hoitaa kerralla koko lattia. Lika myös leviää keittiön lattiasta muualle, tai yleisistä tiloista keittiölle, jos lattiat ei imuroida samaan aikaan.*
 
-Ikkunoiden pesu ei kuulu kenellekään. 
+Ikkunoiden pesu ei kuulu kenellekään.
 
 **Jokaisen asukkaan tulee käyttää vähintään puolitoistatuntia siivoamiseen, mutta enintään 3 tuntia.** *Tämä määrä kotitaloustyötä on oikeastaan keskimäärää huomattavasti pienempi, kuin mitä normaalissa perheyhteisössä yleensä käytetään aikaa.* Mikäli 3 tuntia ylittyy, olet tehnyt liikaa töitä. Tässä tapauksessa käy puhumassa {{< role leader >}}lle.
 
-Vielä muistutuksena, että vastuualue ei tarkoita sitä, että vain siivoaa kyseistä aluetta. Vastuualue tarkoittaa myös johtamista, delegoimista ja sääntöjen valvontaa alueellasi. Vastuualueesi on sinun valtakuntasi. Uusia sääntöjä saa luoda helpottamaan alueesi puhtaanapidossa. Erityisesti jos huomaat tekeväsi yli kolme tuntia kuukaudessa siivoushommia, kannattaa katsoa pystytkö asettamaan uusia sääntöjä, jotka pitävät alueesi paremmin puhtaana ja työmääräsi kohtuullisena. Muista, että lisäapua ensisijaisesti haetaan {{< role genera >}}lta. Hän on käytettävissä erilaisiin tehtäviin.
+Vielä muistutuksena, että vastuualue ei tarkoita sitä, että vain siivoaa kyseistä aluetta. Vastuualue tarkoittaa myös johtamista, delegoimista ja sääntöjen valvontaa alueellasi. Vastuualueesi on sinun valtakuntasi. Uusia sääntöjä saa luoda helpottamaan alueesi puhtaanapitoa. Erityisesti jos huomaat tekeväsi yli kolme tuntia kuukaudessa siivoushommia, kannattaa katsoa pystytkö asettamaan uusia sääntöjä, jotka pitävät alueesi paremmin puhtaana ja työmääräsi kohtuullisena. Muista, että lisäapua ensisijaisesti haetaan {{< role general >}}lta. Hän on käytettävissä erilaisiin tehtäviin.
 
-Vastuualueen lisäksi on vielä [yleiset tehtävät]({{< ref "/saanto/yleiset-tehtavat.md" >}}). Näistä tehtävistä ei lasketa tunteja kotitöihisi, koska ne ovat aika pieniä. Jos jokin yleisten tehtävien tehtävistä tehdään alueellasi, on vastuullasi vain osittain hoitaa niitä. Sinun tulee myös valvoa, että muutkin yleisitä tehtäviä alueellasi.
+Vastuualueen lisäksi on vielä [yleiset tehtävät]({{< ref "/saanto/yleiset-tehtavat.md" >}}). Näistä tehtävistä ei lasketa tunteja kotitöihisi, koska ne ovat aika pieniä. Jos jokin yleisten tehtävien tehtävistä tehdään alueellasi, on vastuullasi vain osittain hoitaa niitä. Sinun tulee myös valvoa, että muutkin hoitavat yleiset tehtävät alueellasi.
 
-Jos olet poissa kommuunista vähintää kaksi viikkoa, {{< role general >}} tai {{< role leader >}} ottaa vastuualueesi siistimisen hoidettavakseen. Huomaa, että tämä ei tarkoita vastuuta. Vastuualueen vastuuhenkilö ei koskaan muutu väliaikaisesti, eikä vastuuta voi siirtää, jopa silloinkin kun et ole paikalla. Tällöin on tärkeää, etä olet huolehtinut siitä, että vastuualueesi ylläpito on delegoitu toiselle, ennen kuin poistut lomille Kommuunista.
+Jos olet poissa kommuunista vähintää kaksi viikkoa, {{< role general >}} tai {{< role leader >}} ottaa vastuualueesi siistimisen hoidettavakseen. Huomaa, että tämä ei tarkoita vastuuta. Vastuualueen vastuuhenkilö ei koskaan muutu väliaikaisesti, eikä vastuuta voi siirtää, edes silloinkaan kun et ole paikalla. Tällöin on tärkeää, että olet huolehtinut siitä, että vastuualueesi ylläpito on delegoitu toiselle, ennen kuin poistut lomille Kommuunista.
 
 ## Mitä jos olen laiska ja rikas?
 Voit palkata jonkun hoitamaan siistimisen puolestasi, mutta vastuuta et pysty kauppaamaan. Työntekijä on sinun löydettävä itse ja myös valvottava, että hän tekee työnsä Kontulan Kommuunin vaatimalla tasolla. 

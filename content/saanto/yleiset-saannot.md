@@ -8,7 +8,7 @@ categories: ["säännöt"]
 Kolme asiaa tapahtuu kello 22:00 jälkeen.
 
 ### Pesukone
-Pesukoneen ohjelma on päätyttävä kello 22:00. *Saattaa häiritä naapureita.*
+Pesukoneen ohjelma on päätyttävä kello 22:00. *Pesukone saattaa häiritä naapureita.*
 
 ### Kohtelias hiljaisuus
 Kello 22:00 jälkeen on oltava tietoinen siitä, ketkä saattavat olla mahdollisesti jo nukkumassa. Jos makuuhuone on kello 22:00 jälkeen kiinni eikä valoja pala, voi tehdä oletuksen, että huoneessa asuva henkilö on jo nukkumassa. Huomioi toista ja käytä maalaisjärkeä. Älä läimäyttele ovia ja käytä mielummin sitä vessaa, minkä viereisessä makuuhuoneessa ei vielä nukuta, jne.
@@ -25,18 +25,18 @@ Kello 22:00 jälkeen kuka tahansa saa vaatia hiljaisuutta **ilman, että tästä
 
 Pääsääntöisesti naapurit ovat olleet melkoisen suopeita kovallekin melulle ja juhlinnalle.
 
-Kannattaa jo ennakkoon vaatia hiljaisuutta esimerkiksi Kontulan Kommuunin yhteissä WhatsApp-ryhmässä, jos tietää että on menossa aikaisin nukkumaan. Myöskin toiseen suuntaan kannattaa ilmoitella, eli jos on ilmoita jos kovaäänisyys jatkuu yli kello 22:00. *esim. tykin käyttö menee yli kello 22:00*
+Kannattaa jo ennakkoon vaatia hiljaisuutta esimerkiksi Kontulan Kommuunin yhteisessä WhatsApp-ryhmässä, jos tietää että on menossa aikaisin nukkumaan. Myöskin toiseen suuntaan kannattaa ilmoitella, eli jos kovaäänisyys jatkuu yli kello 22:00. *esim. tykin käyttö menee yli kello 22:00*
 
 ### Hiljaisuuden poikkeukset
 
-Hiljaisuuspoikkeuksia on vain kaksi tapausta. Nämä ovat Kontulan Kommuunin isot juhlat, eli halloween ja pikkujoulu. Tällöin hiljaisuus siirretään edemmäs, mutta ei kuitenkaan yli keskiyön. Tästä siirroksesta kerrotaan erikseen Kontulan Kommuunin WhatsApp-ryhmässä. **Näistä juhlista ei voi vaatia tai julistaa hiljaisuutta kello 22:00 jälkeen.** Juhlat kuitenkin loppuvat aina viimeistään keskiyöllä.
+Hiljaisuuspoikkeuksia on vain kaksi tapausta. Nämä ovat Kontulan Kommuunin isot juhlat, eli halloween ja pikkujoulu. Tällöin hiljaisuus siirretään edemmäs, mutta ei kuitenkaan yli keskiyön. Tästä siirroksesta kerrotaan erikseen Kontulan Kommuunin WhatsApp-ryhmässä. **Näissä juhlissa ei voi vaatia tai julistaa hiljaisuutta kello 22:00 jälkeen.** Juhlat kuitenkin loppuvat aina viimeistään keskiyöllä.
 
 Muista juhlista, jotka menevät yli hiljaisuuden, on erikseen pyydettävä lupa.
 
 ## Tiskit
-Likaisten tiskien säilytys keittiössä on kielletty. Jos et pysty pesemään asitioitasi välittömästi, vie ne omaan huoneeseesi. *Yleensä itse tuotettu lika ei häiritse, mutta toisten tuottama lika häiritsee. Esimerkiksi omat irronneet karvat eivät häritse yhtä paljon kuin muiden irronneet karvat.*
+Likaisten tiskien säilytys keittiössä on kielletty. **Jos et pysty pesemään asitioitasi välittömästi, vie ne omaan huoneeseesi.** *Yleensä itse tuotettu lika ei häiritse, mutta toisten tuottama lika häiritsee. Esimerkiksi omat irronneet karvat eivät häritse yhtä paljon kuin muiden irronneet karvat.*
 
-Poikkeuksen tähän sääntöön saa tehdä vain jos on ei-kommuunilainen kaveri kylässä. Tällöin saa jättää tiskit huomiselle, jos seurustelukiireissään ei pysty tiskaamaan.
+Poikkeuksen tähän sääntöön saa tehdä vain, jos on ei-kommuunilainen kaveri kylässä. Tällöin saa jättää tiskit huomiselle, jos seurustelukiireissään ei pysty tiskaamaan.
 
 ## Pullopantit
 Pantilliset pullot kerätään keittiössä. Kaikki panteista tulevat tuotot menevät [kommuunipankille]({{< ref "/sopimus/kommuunipankki.md" >}}). Myös juhlista tulevat pantit menevät kommuunipankkiin ns. juhlaverona.
@@ -44,7 +44,7 @@ Pantilliset pullot kerätään keittiössä. Kaikki panteista tulevat tuotot men
 ## Maalaisjärjen käyttö on sallittu
 Käytetään sitten myös maalaisjärkeä, ettei jokaisesta pienestä yksityiskohdasta tarvitse säännöissä mainita.
 
-## Poikkeussäännöt
-Poikkeussäännöt ylittävät perussäännöt, ja ovat aina väliaikaisi. Kun poikkeussääntö luodaan, merkitään henkilö ja tarpeen mukaan myös syy, jonka takia sääntö on olemassa. Henkilö merkitään siitä syystä, että tiedetään milloin tämä sääntö voidaan purkaa, kun hän muuttaa pois kommuunista. On myös mahdollista, että poikkeussääntö kirjoitetaan joskus perussääntöihin, jos se on koettu olevan hyvä sääntö.
-
-Tällä hetkellä ei ole poikkeussääntöjä.
+<!-- ## Poikkeussäännöt -->
+<!-- Poikkeussäännöt ylittävät perussäännöt, ja ovat aina väliaikaisia. Kun poikkeussääntö luodaan, merkitään henkilö ja tarpeen mukaan myös syy, jonka takia sääntö on olemassa. Henkilö merkitään siitä syystä, että tiedetään milloin tämä sääntö voidaan purkaa, kun hän muuttaa pois kommuunista. On myös mahdollista, että poikkeussääntö kirjoitetaan joskus perussääntöihin, jos se on koettu olevan hyvä sääntö. -->
+<!--  -->
+<!-- Tällä hetkellä ei ole poikkeussääntöjä. -->

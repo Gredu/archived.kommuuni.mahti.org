@@ -10,7 +10,7 @@ Yleiset tehtävät Kontulan Kommuunissa:
   - pöytälakana keittiössä
   - kaikki kierrätettävät ja roskat, myöskin roskat vessoissa ja suihkuhuoneessa, mutta ei bio
   - astioiden kuivaustelineen tyhjentäminen keittiössä
-  - uivauskipon tyhjentäminen keittiössä (missä ruokailuvälineet kuivatetaan)
+  - ruokailuvälineiden kuivaamiseen tarkoitetun kipon tyhjentäminen
   - käsisaippuan ja tiskiaineen täyttäminen
   - kaikkien [käytössä olevien kulutustuotteiden]({{< ref "/saanto/kaikille-yhteiset.md">}}) ostaminen
 
@@ -21,16 +21,16 @@ Vihreä matto suihkuhuoneessa pestään 40 asteessa.
 
 [Ohjeita pesukoneen käyttöön]({{< ref "/ohje/pyykkien-pesu.md">}}) on oma osionsa.
 
-## Keittin pöytälakana
-Keittiön pöytälakana vaihdetaan kun siltä tuntuu. Puhtaita lakanoita löytyy komerovarastosta.
+## Keittiön pöytäliina
+Keittiön pöytäliina vaihdetaan kun siltä tuntuu. Puhtaita lakanoita löytyy komerovarastosta.
 
-*Joskus on nähty tapauksia, missä pöytälakana on ollut likainen, ja sitten ollaan kuorittu sitä vähän pois, että tulee paljas pöytä näkyviin, mitä sitten käytetään. Tällainen käytös on erittäin typerää, koska se osoittaa, että henkilö on tietoinen siitä, että pöytä on likainen ja se ällöttää häntä sen verran kuitenkin, että taitetaan paljas pöytä esille. Jos pöytälakana on likainen vaihda se!*
+*Joskus on nähty tapauksia, missä pöytäliina on ollut likainen, ja sitten ollaan kuorittu sitä vähän pois, että tulee paljas pöytä näkyviin, mitä sitten käytetään. Tällainen käytös on erittäin typerää, koska se osoittaa, että henkilö on tietoinen siitä, että pöytä on likainen ja se ällöttää häntä sen verran kuitenkin, että taitetaan paljas pöytä esille. Jos pöytäliina on likainen, vaihda se!*
 
 ## Roskat ja kierrätettävät
 Roskat ja kierrätettävät voi viedä eteiseen. Seuraava joka lähtee liikenteelle, vie eteisestä roskat roskikseen ja kierrätettävät niille tarkoitetuille kierrätyspisteille.
 
 ### Bio
-Biovuoro on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle. Jos nimesi kohdalla ei ole oikealla ketään, vie sininen nappula kaikista vasemman puoliselle henkilölle. Jos seuraavana olevalla henkilöllä on punainen nappula, poista se ja hyppää seuraavaan henkilöön.
+Biovuoro on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle. Jos seuraavana olevalla henkilöllä on punainen nappula, poista se ja hyppää seuraavaan henkilöön.
 
 Punainen nappula on merkki siitä, että bio on viety silloin, kun ei ole ollut hänen vuoronsa. Jos viet bion kun ei ole vuorosi, laita punainen nappula nimesi kohdalle, niin seuraavalla kerralla ei bio tarvitse viedä. Punaisia nappuloita saa haalia niin paljon kuin haluaa.
 
@@ -51,7 +51,7 @@ Täytä tiskiaine ja käsipesuaine pullot, kun on tarvetta. Käsipesuaine löyty
 ## Maalaisjärki
 Maalaisjärkeä saa käyttää! Jos epäilet, että joku muu kuitenkin huolehtii jostain asiasta, niin voit olla varma, että kaikki muutkin ajattelevat samoin. Asumisessa tulee paljon pieniä tehtäviä, joita ei ole järkevää kirjoittaa ylös, koska muuten tärkeimmät asiat hukkuvat.
 
-*Jos suihkuhuoneessa on vessapaperia jäljellä enää yksi kappale, hae lisää pienestä vessasta, missä vessapapereita säilytetään. Älä pelaa ruletta vessapapereilla!*
+*Jos suihkuhuoneessa on vessapaperia jäljellä enää yksi kappale, hae lisää pienestä vessasta, missä vessapapereita säilytetään. Älä pelaa rulettia vessapapereilla!*
 
 *Älä jätä valoja yöksi auki.*
 
