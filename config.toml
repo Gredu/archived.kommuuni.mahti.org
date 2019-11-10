@@ -1,4 +1,4 @@
-baseURL = "https://community.mahti.org/"
+baseURL = "https://kommuuni.mahti.org/"
 
 DefaultContentLanguage = "fi"
 languageCode = "fi-fi"
