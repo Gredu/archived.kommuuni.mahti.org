@@ -57,7 +57,7 @@ Perusrutiineihin kuuluu
   - imurointi
   - pintojen siistiminen
 
-Isoimmat tehtävät:
+Isommat tehtävät:
 
   - sohvan ja kaappien alta siivoaminen
   - reunalastojen pölykerroksien siivoaminen
@@ -74,7 +74,7 @@ Perusrutiineihin kuuluu
   - lattioiden pesu
   - tasojen pesu
 
-Isoimmat tehtävät:
+Isommat tehtävät:
   - katon homeen poistaminen
   - kylpykopin siistiminen
 
