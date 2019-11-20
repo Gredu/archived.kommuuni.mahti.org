@@ -20,11 +20,11 @@ Saavuttaakseen tavoitteensa, Kontulan Kommuuni on luonut hallintomuodon, joka pe
 Jokainen kommuunilainen on velvollinen kierrättämään ja käyttämään vettä ja sähköä kohtuudella. Lisää voi lukea [ekologisuus ja kierrätys]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}}) osiossa.
 
 ## Arki- ja perusjärki
-*Viistosti* kirjoitetut ovat selityksiä. Kommuunissa sääntöjä saa rikkoa, jos ei riko sen olemassaolon syytä ja ymmärtää miksi sääntö on asetettu. Lisää voi lukea [käytössäännöt]({{< ref "/ohje/kaytossaannot.md" >}}) osiosta.
+*Viistosti* kirjoitetut ovat selityksiä. Kommuunissa sääntöjä saa rikkoa, jos ei riko sen olemassaolon syytä ja ymmärtää miksi sääntö on asetettu. 
 
 Selitykset kannattaa lukea, vaikkakin se ei ole välttämätöntä. Erityisesti jos haluaa päästä vähällä ja lupaa noudattaa sääntöjä kirjaimellisesti, voi ihan hyvin pärjätä lukematta selityksiä. Selitykset antavat kuitenkin syvempää ymmärtämistä säännön olemassaolosta, mikä voi auttaa säännön rikkomista oikealla tavalla.
 
 Joidenkin sääntöjen kohdalla on mahdotonta antaa koko selitystä miksi sääntö on olemassa. Tällöin selityksenä saattaa olla vain esimerkki.
 
 ## Suositeltu lukemisjärjestys
-Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan. [Käytössäännöt]({{< ref "/ohje/kaytossaannot.md" >}}) ovat kuitenkin ihan fiksua luettavaa.
+Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan. 
