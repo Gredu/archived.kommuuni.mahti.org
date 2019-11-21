@@ -75,6 +75,7 @@ Perusrutiineihin kuuluu
   - tasojen ja lavuaarien pesu
 
 Isommat tehtävät:
+
   - katon homeen poistaminen
   - suihkukaapin puhdistaminen
 
