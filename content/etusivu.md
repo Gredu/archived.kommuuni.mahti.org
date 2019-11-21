@@ -28,5 +28,3 @@ Joidenkin sääntöjen kohdalla on mahdotonta antaa koko selitystä miksi sään
 
 ## Suositeltu lukemisjärjestys
 Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan.
-
-FOOO
