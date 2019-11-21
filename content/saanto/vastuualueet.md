@@ -7,7 +7,7 @@ Kontulan Kommuuni toimii vastuuperiaatteella. Melkein jokaisella asukkaalla on o
 
 Vastuuhenkilö voi määrätä kommuunilaisia siivoamaan omat sotkunsa.
 
-*Esimerkiksi pakastimen puhtaanapito ja ajoittaiset sulattamiset kuuluvat keittiövastaavalle, mutta hän voi tähän pyytää apuvoimia. Jos lamppu on hajonnut yleisissä tiloissa, yleisen tilojen vastaava hankkii ja vaihtaa lamput. Jos suihkuhuoneen kattoon alkaa ilmaantua mustia läikkiä, vessavastaava pitää huolta, että se siivotaan. Eli perussiivouksen lisäksi on joskus tehtävä jotain vähän poikkeavaakin.*
+*Esimerkiksi pakastimen puhtaanapito ja ajoittaiset sulattamiset kuuluvat keittiövastaavalle, mutta tähän hän voi pyytää apuvoimia. Jos lamppu on hajonnut yleisissä tiloissa, yleisten tilojen vastaava hankkii ja vaihtaa lamput. Jos suihkuhuoneen kattoon alkaa ilmaantua mustia läikkiä, vessavastaava pitää huolta, että se siivotaan. Eli perussiivouksen lisäksi on joskus tehtävä jotain vähän poikkeavaakin.*
 
 Vastuualueet:
 
@@ -17,7 +17,7 @@ Vastuualueet:
   - nakkikone, henkilöä saa käyttää auttamaan tehtävissä, saa myös kuukausittain tehtäviä - {{< role general >}}
   - meta - {{< role leader >}} *kommuunipankki, vuokrasopimukset, uusien asukkaiden haku, paperihommat, dokumentaatiot, johtaminen, jne.*
 
-*Yleisen tilojen vastaava joutuu siivoamaan myös keittiön lattian, koska on helpompaa hoitaa kerralla koko lattia. Lika myös leviää keittiön lattiasta muualle, tai yleisistä tiloista keittiölle, jos lattiat ei imuroida samaan aikaan.*
+*Yleisen tilojen vastaava joutuu siivoamaan myös keittiön lattian, koska on helpompaa hoitaa kerralla kaikki lattiat. Lika myös leviää keittiön lattiasta muualle asuntoon, tai yleisistä tiloista keittiöön, jos lattioita ei imuroida ja pestä samaan aikaan.*
 
 **Jokaisen asukkaan tulee käyttää vähintään puolitoistatuntia siivoamiseen, mutta enintään 3 tuntia.** *Tämä määrä kotitaloustyötä on oikeastaan keskimäärää huomattavasti pienempi, kuin mitä normaalissa perheyhteisössä yleensä käytetään aikaa.* Mikäli 3 tuntia ylittyy, olet tehnyt liikaa töitä. Tässä tapauksessa käy puhumassa {{< role leader >}}lle.
 
@@ -45,7 +45,7 @@ Perusrutiineihin kuuluu
 
   - pestä kaikki tasot
   - pestä kaappien ulkopinnat, jos näkyy roiskeita tai muuta likaa
-  - pitää mikro ja levänpaahdin puhtaana
+  - pitää mikro ja leivänpaahdin puhtaana
 
 Isommat tehtävät:
 
@@ -54,16 +54,16 @@ Isommat tehtävät:
 #### Yleiset tilat
 Perusrutiineihin kuuluu
 
-  - imurointi
-  - pintojen siistiminen
+  - imurointi (muista myös rapussa oleva matto)
+  - pintojen siistiminen (pölyt, tahrat jne)
 
 Isommat tehtävät:
 
   - sohvan ja kaappien alta siivoaminen
-  - reunalastojen pölykerroksien siivoaminen
+  - reunalistojen pölykerroksien pyyhkiminen
   - ovien päällystöjen siivoaminen
-  - ovien kohvojen peseminen
-  - takkahiilien poistaminen (menee tavalliseen roskikseen, ei bioon)
+  - ovenkahvojen pyyhkiminen
+  - tuhkien tyhjentäminen takasta (menee tavalliseen roskikseen, ei bioon)
 
 Yleistentilojen vastaavan kannattaa pitää mielessä, että edellä lueteltu lista on hyvin suppea. Kontulan Kommuuniin yleiset tilat ovat aika isoja, eikä kaikkea tehtäviä ole mielekästä luetella. Yleisen tilojen vastaavan tulee varautua ottamaan vastuuta myös yllättävistä asioista.
 
@@ -72,11 +72,11 @@ Perusrutiineihin kuuluu
 
   - pönttöjen pesu
   - lattioiden pesu
-  - tasojen pesu
+  - tasojen ja lavuaarien pesu
 
 Isommat tehtävät:
   - katon homeen poistaminen
-  - kylpykopin siistiminen
+  - suihkukaapin puhdistaminen
 
 ### Siivousrutiinien laiminlyönti
 Jos vastuuhenkilö ei pysty siistimään aluettaan asianmukaisesti tai säännöllisesti, aloitetaan valvonta. Valvonta kestää niin kauan, kuin kommuunijohtaja näkee siihen aihetta.
@@ -86,7 +86,7 @@ Valvonnan alla oleva asukas merkitsee kalenteriin milloin on viimeksi hoitanut r
 ### Siivousrutiineista irtisanoutuminen
 Asukas voi palkata jonkun hoitamaan vastuualueensa perusrutiinit, mutta vastuuta ei pysty kauppaamaan. Asukkaan on löydettävä työntekijä itse ja myös valvottava, että siivoaja tekee työnsä kommuunin vaatimalla tasolla. 
 
-**Kommuunin asukasta ei saa palkata hoitamaan siivousrutiineja!** Kokemus on osoittanut, että asukkaan tehdessä kahden alueen siistimistä, on siivouksen taso yleensä huono.
+**Kommuunin asukasta ei saa palkata hoitamaan siivousrutiineja!** Kokemus on osoittanut, että asukkaan hoitaessa kahden alueen siistimistä, on siivouksen taso yleensä huono.
 
 Alin palkka on 20 € per kuukausi. Tämän sopimuksen on kestettävä vähintään puolivuotta, eli satunnaisiin siivouksiin ei voi palkata ketään.
 
