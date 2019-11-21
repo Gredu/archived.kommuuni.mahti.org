@@ -27,4 +27,6 @@ Selitykset kannattaa lukea, vaikkakin se ei ole välttämätöntä. Erityisesti 
 Joidenkin sääntöjen kohdalla on mahdotonta antaa koko selitystä miksi sääntö on olemassa. Tällöin selityksenä saattaa olla vain esimerkki.
 
 ## Suositeltu lukemisjärjestys
-Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan. 
+Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan.
+
+FOOO
