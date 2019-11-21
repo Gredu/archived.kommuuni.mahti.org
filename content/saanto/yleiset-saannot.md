@@ -8,13 +8,13 @@ categories: ["säännöt"]
 Kolme asiaa tapahtuu kello 22:00 jälkeen.
 
 ### Pesukone
-Pesukoneen ohjelma on päätyttävä kello 22:00. *Pesukone saattaa häiritä naapureita.*
+Pesukoneen ohjelman on päätyttävä kello 22:00. *Pesukone saattaa häiritä naapureita.*
 
 ### Kohtelias hiljaisuus
-Kello 22:00 jälkeen on oltava tietoinen siitä, ketkä saattavat olla mahdollisesti jo nukkumassa. Jos makuuhuone on kello 22:00 jälkeen kiinni eikä valoja pala, voi tehdä oletuksen, että huoneessa asuva henkilö on jo nukkumassa. Huomioi toista ja käytä maalaisjärkeä. Älä läimäyttele ovia ja käytä mielummin sitä vessaa, minkä viereisessä makuuhuoneessa ei vielä nukuta, jne.
+Kello 22:00 jälkeen on oltava tietoinen siitä, ketkä saattavat olla mahdollisesti jo nukkumassa. Jos makuuhuone on kello 22:00 jälkeen kiinni eikä valoja pala, voi tehdä oletuksen, että huoneessa asuva henkilö on jo nukkumassa. Huomioi toista ja käytä maalaisjärkeä. Älä läimäyttele ovia ja käytä mielummin sitä vessaa, minkä viereisessä makuuhuoneessa ei vielä nukuta jne.
 
 Esimerkkejä:
-  - jos **Suvi** nukkuu, käytä mielummin suihkunhuonetta
+  - jos **Suvi** nukkuu, käytä mielummin isoa vessaa
   - jos **Miikael** nukkuu, ei käytetä olohuonetta tai pidetä valoa eteisen tilassa turhaan
   - jos **Gredu** tai **Anshul** nukkuvat, sulje suihkuhuoneen ovi hellemmin
 
@@ -34,7 +34,7 @@ Hiljaisuuspoikkeuksia on vain kaksi tapausta. Nämä ovat Kontulan Kommuunin iso
 Muista juhlista, jotka menevät yli hiljaisuuden, on erikseen pyydettävä lupa.
 
 ## Tiskit
-Likaisten tiskien säilytys keittiössä on kielletty. **Jos et pysty pesemään asitioitasi välittömästi, vie ne omaan huoneeseesi.** *Yleensä itse tuotettu lika ei häiritse, mutta toisten tuottama lika häiritsee. Esimerkiksi omat irronneet karvat eivät häritse yhtä paljon kuin muiden irronneet karvat.*
+Likaisten tiskien säilytys keittiössä on kielletty. **Jos et pysty pesemään asitioitasi välittömästi, vie ne omaan huoneeseesi.** *Yleensä oma sotku ei häiritse, mutta toisen sotku kummasti pistää häiritsemään.*
 
 Poikkeuksen tähän sääntöön saa tehdä vain, jos on ei-kommuunilainen kaveri kylässä. Tällöin saa jättää tiskit huomiselle, jos seurustelukiireissään ei pysty tiskaamaan.
 
