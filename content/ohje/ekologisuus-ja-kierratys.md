@@ -3,12 +3,12 @@ title: "Ekologisuus ja kierrätys"
 date: 2018-08-17T00:08:22+03:00
 categories: ["ohjeet"]
 ---
-Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne voidaan viedä eteiseen, mistä seuraava asukas lähtiessään vie ne lopulliseen päämäärään.
+Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne voidaan viedä väliaikaisesti odottamaan eteiseen, mistä seuraava ulos lähtevä asukas vie ne lopulliseen päämääräänsä. Koskaan ei ole liian kiire, etteikö ehtisi viemään roskapusseja eteisestä muiden jaloista. Kotoa voi lähdeä vähän aikaisemmin. Roskien vieminen kestää vain minuutin.
 
-Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa.
+Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa. Jokainen asukas on vastuussa bioastian viennistä oikeaan aikaan omalla vuorollaan. Ennakoi, älä päästä bioa liian täyteen ja niin edelleen.
 
 ## Kierrätys
-Ulko-oven edessä olevassa roskakatoksessa on seuraavat kierrätyspisteet:
+Ulko-oven edessä sijaitsevassa roskakatoksessa on seuraavat kierrätyspisteet:
 
   - kartonki
   - lasi
@@ -29,7 +29,7 @@ Paristot voi viedä lähes mihin tahansa lähikauppaan. Vaatteiden kierrätyspis
 
 Elektroniikan voi kierrättää esimerkiksi Gigantissa Itäkeskuksessa.
 
-Kaksi kertaa vuodessa tulee pihalle kontti, johon voi heittää mm. huonekaluja. Sitä ennen huonekaluja kannattaa säilyttää varastossa.
+Kahdesti vuodessa taloyhtiön pihalle tulee kontti, johon voi heittää mm. huonekaluja. Sitä ennen huonekaluja kannattaa säilyttää varastossa.
 
 ## Pantilliset pullot
 Paras paikka viedä pullot on Lidl. Lidlistä ostetuista pulloista ei aina välttämättä saa panttia s- tai k-kaupoista. Lidl hyväksyy kaikki pantilliset pullot, myös Alkon.
@@ -44,12 +44,11 @@ Bion tyhjentäminen on [yleinen tehtävä]({{< ref "/saanto/yleiset-saannot.md" 
 ## Ekologisuus
 Muutamia asioita, jotka säästävät vettä, elektroniikkaa ja aikaasi:
 
-  - täydet lastit pesukoneissa
-  - sammuta kaikki mitä et käytä tai mistä ei ole hyötyä (valot!)
+  - pese pyykkiä vain täysinä koneellisina
+  - sammuta kaikki sähkölaitteet ja valot joita et käytä
   - käytä talvisin ulkoisten lämmitysten sijaan enemmän vaatteita 
-  - käytä kesäisin ulkoisten viilentimien sijaan vähemmän vaatteita
-  - yleensä vähempi määrä tiskiainetta riittää (lue tiskiainepullossa olevat ohjeet)
-  - ruuan laittaminen yhdessä
-  - jaa elintarviketuotteet, jotka muuten käyttämättömänä homehtuisivat
+  - Tiskiainetta tarvitaan yleensä vain tippa tai pari 
+  - ruokaa on taloudellisempaa valmistaa porukalla
+  - elintarviketuotteet, joita et käytä tai jotka muuten pilaantuisivat, laitetaan yhteiseen jakoon
 
 Lisää tietoa [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) sivuilta.
