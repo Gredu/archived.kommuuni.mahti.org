@@ -24,9 +24,9 @@ Kuivaushuoneet sijaitsevat kellarissa. Kuivaushuoneet 27 ja 32 vaativat varaukse
 
 Kolmas kuivaushuone sijaitsee kellarikäytävän päässä. Tähän huoneeseen ei tarvitse tehdä varauksia.
 
-Yleensä kuivaushuoneet 27 ja 32 ovat lähes aina vapaina, joten ei yleensä ole tarvetta varata etukäteen, kunhan varaa silloin kun kuivashuoneessa käy.
+Yleensä kuivaushuoneet 27 ja 32 ovat lähes aina vapaina, joten niitä ei yleensä ole tarvetta varata etukäteen, kunhan varaa silloin kun kuivashuoneessa käy.
 
 ## Pesukoneen käyttö ekologisesti
-**Pese pyykit pesukoneessa täydellä lastilla.** Käytä täytteenä yhteisten tilojen pyykkejä. Nämä pyykit löytyvät suihkuhuoneen pyykkikorista. Yleisten tilojen pyykkien peseminen on Kontulan Kommuunissa [perustehtävä]({{< ref "/saanto/yleiset-saannot.md">}}).
+**Pese pyykkiä vain täysinä koneellisina.** Käytä täytteenä yhteisten tilojen pyykkejä. Nämä pyykit löytyvät suihkuhuoneen pyykkikorista. Yleisten tilojen pyykkien peseminen on Kontulan Kommuunissa [perustehtävä]({{< ref "/saanto/yleiset-saannot.md">}}).
 
 [Ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md">}}) voi lukea lisää omasta osiostaan.
