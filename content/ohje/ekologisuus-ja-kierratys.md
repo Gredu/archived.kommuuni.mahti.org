@@ -21,9 +21,9 @@ Kaikkien edellä mainittujen kierrätyspisteet löytyvät kommuunin keittiöstä
 
 Muualla olevat kierrätyspisteet ja niiden sijainti Kommuunissa:
 
-  - paristot - eteinen
-  - elektroniikka -komerovarasto
-  - vaatteet - komerovarasto
+  - paristot = eteinen
+  - elektroniikka = komerovarasto
+  - vaatteet = komerovarasto
 
 Paristot voi viedä lähes mihin tahansa lähikauppaan. Vaatteiden kierrätyspiste on Kontulan terveysaseman parkkipaikalla.
 
@@ -47,8 +47,8 @@ Muutamia asioita, jotka säästävät vettä, elektroniikkaa ja aikaasi:
   - pese pyykkiä vain täysinä koneellisina
   - sammuta kaikki sähkölaitteet ja valot joita et käytä
   - käytä talvisin ulkoisten lämmitysten sijaan enemmän vaatteita 
-  - Tiskiainetta tarvitaan yleensä vain tippa tai pari 
+  - tiskiainetta tarvitaan yleensä vain tippa tai pari 
   - ruokaa on taloudellisempaa valmistaa porukalla
   - elintarviketuotteet, joita et käytä tai jotka muuten pilaantuisivat, laitetaan yhteiseen jakoon
 
-Lisää tietoa [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) sivuilta.
+Lisää vinkkejä ja hyödyllistä tietoa [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) sivuilta.
