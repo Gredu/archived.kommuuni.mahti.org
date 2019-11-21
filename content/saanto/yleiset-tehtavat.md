@@ -22,7 +22,7 @@ Vihreä matto suihkuhuoneessa pestään 40 asteessa.
 [Ohjeita pesukoneen käyttöön]({{< ref "/ohje/pyykkien-pesu.md">}}) on oma osionsa.
 
 ## Keittiön pöytäliina
-Keittiön pöytäliina vaihdetaan aina, kun tarve vaatii. Puhtaita pöytäliinoja löytyy komerovarastosta.
+Keittiön pöytäliina vaihdetaan aina, kun tarve vaatii. Puhtaita pöytäliinoja löytyy komerovarastosta.suihkuhuoneessa
 
 *Jos liina on likainen, vaihda se! Jos et pysty käyttämään pöytää tahrojen vuoksi, älä siirrä tai käännä likaista liinaa. Vie se suosiolla pyykkikoriin ja laita puhdas liina tilalle.*
 
@@ -46,7 +46,7 @@ Tiskit kuivatetaan ensisijaisesti kuivaukseen tarkoitetussa kuivauskaapissa. Jos
 Hyvä idea on ottaa puhtaat astiat suoraan kuivauskaapista, jolloin kaappia tarvitsee tyhjentää harvemmin. Sama periaate koskee myös ruokailuvälineiden kuivaustelinettä.
 
 ## Pesuaineiden täyttäminen
-Täytä tiskiaine ja käsipesuainepumput, kun on tarvetta. Käsipesuainekanisteri löytyy pienestä vessasta, ja tiskiaineet eteisestä.
+Täytä tiskiaine ja käsipesuainepumput, kun on tarvetta. Käsipesuainekanisteri löytyy pienestä vessasta ja tiskiaineet eteisestä.
 
 ## Maalaisjärki
 Maalaisjärkeä saa käyttää! Jos epäilet, että joku muu kuitenkin huolehtii asioista puolestasi, niin voit olla varma, että kaikki muutkin ajattelevat samoin. Asumisessa tulee paljon pieniä tehtäviä, joita ei ole järkevää kirjoittaa ylös, koska muuten tärkeimmät asiat hukkuvat vähäisimpien alle.
