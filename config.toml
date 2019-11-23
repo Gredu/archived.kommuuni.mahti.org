@@ -9,8 +9,5 @@ theme = "hybrid"
   [languages.fi]
     title = "Kontulan Kommuuni"
     weight = 1
-  [languages.en]
-    title = "Community of Kontula"
-    weight = 2
 
 
