@@ -41,10 +41,14 @@ Likaisten tiskien säilytys keittiössä on kielletty. **Jos et pysty pesemään
 Poikkeuksen tähän sääntöön saa tehdä vain, jos on ei-kommuunilainen kaveri kylässä. Tällöin saa jättää tiskit huomiselle, jos seurustelukiireissään ei pysty tiskaamaan.
 
 ## Ruuan säilöntä
-
 Kattilat ja pannut ovat pääsääntöisesti tarkoitettu ruuan valmistamiseen, ei säilyttämiseen. Ruokaa saa säilyttää pannuissa ja kattiloissa ainostaan, jos ruokaa on sen verran, etä se ei mahdu mihinkään säilytysrasiaan. Jos ruuan tai juoman haluaa jakaa FFA:na kaikille, tulee se se asettaa tarjoilulle tarkoitettuun kulhoon tai juomakannuun keittiön pöydälle. *Tämä sääntö on olemassa esteettissistä syistä.*
 
 Viimeinen henkilö, joka kuluttaa kulhossa olevan FFA-ruuan tai juomakannussa olevan FFA-juoman, tulee pestä kyseinen astia.
+
+## Henkilökohtainen hygienia
+**Jokaisen asukkaan on huolehdittava omasta hygieniastaan.**
+
+Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestävä tarpeittensa jälkeen. 
 
 ## Pullopantit
 Pantilliset pullot kerätään keittiössä. Kaikki panteista tulevat tuotot menevät [kommuunipankille]({{< ref "/sopimus/kommuunipankki.md" >}}). Myös juhlista tulevat pantit menevät kommuunipankkiin ns. juhlaverona.
