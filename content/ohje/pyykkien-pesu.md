@@ -12,7 +12,7 @@ Tärkeimmät pesuohjelmat pesukoneessa ovat tekstiilipesu 40 asteessa ja ekopesu
 
 {{% gallery %}}![Pesukoneen ohjelmat](/img/washing-machine.jpg){{% /gallery %}}
 
-Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös käyttää ilmaiseksi (mutta näistä ei erikseen kirjoiteta ohjeita).
+Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös käyttää ilmaiseksi. Ohjeet näiden käyttöön löytyy paikanpäältä.
 
 ## Pesupulveri
 **Yksi lusikallinen pesupulveria riittää.** Annostelulusikka löytyy pesupulveripakkauksen sisältä. Erittäin likaisille tai yhteistilojen pyykeille puolitoista lusikallista pyykinpesupulveria. Pulveri laitetaan pesukoneessa kohtaan, jossa lukee II.
@@ -27,6 +27,6 @@ Kolmas kuivaushuone sijaitsee kellarikäytävän päässä. Tähän huoneeseen e
 Yleensä kuivaushuoneet 27 ja 32 ovat lähes aina vapaina, joten niitä ei yleensä ole tarvetta varata etukäteen, kunhan varaa silloin kun kuivashuoneessa käy.
 
 ## Pesukoneen käyttö ekologisesti
-**Pese pyykkiä vain täysinä koneellisina.** Käytä täytteenä yhteisten tilojen pyykkejä. Nämä pyykit löytyvät suihkuhuoneen pyykkikorista. Yleisten tilojen pyykkien peseminen on Kontulan Kommuunissa [perustehtävä]({{< ref "/saanto/yleiset-saannot.md">}}).
+**Pese pyykkiä vain täysinä koneellisina.** Käytä täytteenä yhteisten tilojen pyykkejä. Nämä pyykit löytyvät suihkuhuoneen pyykkikorista. Yleisten tilojen pyykkien peseminen on Kommuunissa [perustehtävä]({{< ref "/saanto/yleiset-saannot.md">}}).
 
 [Ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md">}}) voi lukea lisää omasta osiostaan.

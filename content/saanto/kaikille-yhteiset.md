@@ -14,16 +14,19 @@ Kaikille yhteiset kulutettavat tuotteet:
   - folio
   - uunipaperi / voipaperi
   - laastarit
+  - paristot
+  - tulitikut
+  - kynttilät
 
-Makuuhuoneissa olevat lamput ovat henkilökohtaisia, eli kommuunipankki ei kustanna näitä.
+Makuuhuoneissa olevat lamput ovat henkilökohtaisia. Kommuunipankki ei kustanna näitä.
 
-Kaikkien käytössä olevat asiat, esineet ja kulutettavat tavarat on merkittävä kirjaimin **FFA (Free For All)**. Jos jokin esine, tavara tai kulutettava tuote on merkitty FFA-merkillä, sillä ei enää ole omistajaa. FFA merkityt eivät voi saada enää omistajaa, eikä niihin pääsyä saa estää tai vaikeuttaa. *Esimerkiksi yleisessä jaossa olevaa sipsipussia ei saa viedä omaan huoneeseen, ja näin estää muiden mahdollisuutta nauttia sipseistä.*
+Kaikkien käytössä olevat asiat, esineet ja kulutettavat tavarat on merkittävä kirjaimin **FFA (Free For All)**. Jos jokin esine, tavara tai kulutettava tuote on merkitty FFA-merkillä, sillä ei enää ole omistajaa. Omistajuutta ei voi palauttaa, eikä uutta omistajaa voi merkitä. Pääsyä FFA-merkittyihin tuotteisiin ei voi rajoittaa. *Esimerkiksi yleisessä jaossa olevaa sipsipussia ei saa viedä omaan huoneeseen, ja näin estää muiden mahdollisuutta nauttia sipseistä.*
 
-**Kaikki keittön pöydälle jätetyt kulutettavat tuotteet ovat kaikkien kommuunilaisten käytössä.**
+**Kaikki keittön pöydälle jätetyt kulutettavat tuotteet ovat kaikkien kommuunilaisten käytössä, eli ovat automaattisesti FFA.**
 
-Pakastimen alin hylly on kaikkien käytössä. Jos tuotteella ei tässä hyllyssä ole nimimerkkiä, se on kaikkian käytettävissä. Jääkaapissa ylin hylly on FFA-alue. Kaikki tuotteet ylimmässä hyllyssä on kaikkien käytettävissä. Jääkaapin alin hylly on myös FFA-alue, mutta siellä voi pitää nimimerkillä omia eineksiä siten, että muut eivät niitä saa käyttää.
+Pakastimen alin hylly on kaikkien käytössä. Jos tuotteella ei tässä hyllyssä ole nimimerkkiä, se on kaikkian käytettävissä. Jääkaapissa ylin hylly on FFA-alue, eli kaikki tuotteet ylimmässä hyllyssä on kaikkien käytettävissä. Jääkaapin alin hylly on myös FFA-alue, mutta siellä voi pitää nimimerkillä omia eineksiä siten, etteivät muut voi niitä käyttää.
 
-Maustehyllyn kaikki mausteet ovat FFA, jos ei ole nimimerkkiä.
+Maustehyllyn kaikki mausteet ovat FFA, jos nimimerkkiä ei ole.
 
 Riisinkeittimeen jätetty riisi on kaikkien käytettävissä.
 
@@ -32,7 +35,7 @@ Vielä lyhyenä yhteenvetona. Täysin FFA-alue:
   - jääkaapin ylin hylly
   - keittiön pöytä
 
-Ja FFA-alue, mutta nimimerkillä voi suojata:
+Ja FFA-alue, mutta nimimerkillä on mahdollista suojata:
 
   - lääkehylly pienessä vessassa
   - jääkaapin alin hylly

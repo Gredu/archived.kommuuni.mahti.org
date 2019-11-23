@@ -5,7 +5,7 @@ categories: ["ohjeet"]
 ---
 Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne voidaan viedä väliaikaisesti odottamaan eteiseen, mistä seuraava ulos lähtevä asukas vie ne lopulliseen päämääräänsä. Koskaan ei ole liian kiire, etteikö ehtisi viemään roskapusseja eteisestä muiden jaloista. Kotoa voi lähdeä vähän aikaisemmin. Roskien vieminen kestää vain minuutin.
 
-Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa. Jokainen asukas on vastuussa bioastian viennistä oikeaan aikaan omalla vuorollaan. Ennakoi, älä päästä bioa liian täyteen ja niin edelleen.
+Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa. Jokainen asukas on vastuussa bioastian viennistä oikeaan aikaan omalla vuorollaan. Ennakoi, älä päästä bioa liian täyteen.
 
 ## Kierrätys
 Ulko-oven edessä sijaitsevassa roskakatoksessa on seuraavat kierrätyspisteet:

@@ -2,9 +2,7 @@
 title: "Kontulan Kommuuni"
 date: 2018-08-16T22:23:21+03:00
 ---
-Kontulan Kommuuni on viiden asukkaan koti Kontulan keskiössä. Osalle asukkaille kommuuni on väliaikainen asumismuoto ja toisille vähän pysyvämpi. Vaihtuvuutta ja muutoksia tapahtuu jatkuvasti, myös kommuunin hengessä. Kommuuni on ollut olemassa jo vuodesta 2014.
-
-Kommuunin sisällä on ajan myötä kehittynyt omat tavat ja säännöt, jotka on koottu yhteen nettisivuiksi. Näiden sivujen tarkoitus on pitää yllä yhteisiä pelisääntöjä, ohjeita ja sopimuksia.
+Kontulan Kommuuni on viiden asukkaan koti Kontulan keskiössä. Kommuuni on ollut olemassa jo vuodesta 2014, minkä aikana on näkynyt monenlaisia hiippareita. Vaihtelevuus on ollut suurta. Jokainen asukas on tuonut mukanaan omia tapojaan ja kulttuuria, joka on osin muokannut Kommuunin sääntöjä, tapoja ja henkeä. Nämä tavat ja säännöstöt on koottu yhteen nettisivuiksi, jonka tarkoitus on pitää yllä yhteisiä pelisääntöjä, ohjeita ja sopimuksia.
 
 ## Tavoite
 Kontulan Kommuunilla on kaksi tavoitetta
@@ -12,15 +10,15 @@ Kontulan Kommuunilla on kaksi tavoitetta
   - yksilön hyvinvointi
   - ryhmän hyvinvointi
 
-Usein soluasunnoissa yksilön hyvinvointi on tärkeämpi kuin ryhmän. Kontulan Kommuunissa kuitenkin ryhmän ja yksilön hyvinvointi ovat molemmat saman arvoisia. Kahden tavoitteen yhteen törmäystä ei voi välttää, ja useimmat säännöt liittyvätkin konfliktien ratkaisemiseen tai vähintäänkin oireiden lieventämiseen. On myöskin otettava huomioon, että yksilön hyvinvointi voi tarkoittaa toiselle eri asiaa, ja että ryhmän hyvinvointi vaihtelee sen mukaan, minkälaisia ihmisiä kommuunissa asuu.
+Usein soluasunnoissa yksilön hyvinvointi on tärkeämpi kuin ryhmän. Kommuunissa kuitenkin ryhmän ja yksilön hyvinvointi ovat molemmat saman arvoisia. Kahden tavoitteen yhteen törmäystä ei voi välttää, ja useimmat säännöt liittyvätkin konfliktien ratkaisemiseen tai vähintäänkin kitkojen lieventämiseen. On myöskin otettava huomioon, että yksilön hyvinvointi voi tarkoittaa toiselle eri asiaa, ja että ryhmän hyvinvointi vaihtelee sen mukaan, minkälaisia ihmisiä kommuunissa asuu.
 
-Saavuttaakseen tavoitteensa, Kontulan Kommuuni on luonut hallintomuodon, joka perustuu vastuuseen. Jokaisella kommuunilaisella on omat vastuualueensa, jonka sisällä kukin saa itse luoda omat sääntönsä, joita muiden on noudatettava. Käytännössä hallitusmuoto muistuttaa feodaalista läänitysperiaatetta.
+Saavuttaakseen tavoitteensa, Kommuuni on luonut hallintomuodon, joka perustuu vastuuseen. Jokaisella kommuunilaisella on omat vastuualueensa, jonka sisällä alueen valvoja saa luoda omat säännöt. Käytännössä hallitusmuoto muistuttaa feodaalista läänitysperiaatetta.
 
 ## Ekologisuus
-Jokainen kommuunilainen on velvollinen kierrättämään ja käyttämään vettä ja sähköä kohtuudella. Lisää voi lukea [ekologisuus ja kierrätys]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}}) osiossa.
+Jokainen asukas on velvollinen kierrättämään ja käyttämään vettä ja sähköä kohtuudella. Lisää voi lukea [ekologisuus ja kierrätys]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}}) osiossa.
 
 ## Arki- ja perusjärki
-Kommuunissa sääntöjä saa rikkoa, jos ei riko sen olemassaolon syytä ja ymmärtää miksi sääntö on asetettu.
+Kommuunissa sääntöjä saa rikkoa, jos ei riko sen olemassaolon syytä ja ymmärtää miksi sääntö on asetettu. Kaikkea nippelitietoa ei voi kirjoittaa ylös.
 
 ## Suositeltu lukemisjärjestys
 Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan.
