@@ -16,6 +16,7 @@ Noin 22:00 aikaan on oltava tietoinen siitä, ketkä saattavat olla jo nukkumass
 Kohtelias hiljaisuus ei ole vain hiljaisuussääntö nukkumista varten, vaan myös rauhoittumista varten. Kello 22:00 ei ole siis kiveen hakattu aika. Asukkaiden on joustettava sen mukaan, kuinka näkee muiden käyttäytyvän. Jos joku on jo kello 21:00 valmistautumassa nukkumaan ja rauhoittumassa, kannattanee jättää väliin kovaääniset aktiviteetit ainakin yleisissä tiloissa.
 
 Esimerkkejä:
+
   - jos **Suvi** nukkuu, käytä mielummin isoa vessaa
   - jos **Miikael** nukkuu, ei käytetä olohuonetta tai pidetä valoa eteisen tilassa turhaan
   - jos **Gredu** tai **Anshul** nukkuvat, sulje suihkuhuoneen ovi hellemmin ja käytä olohuoneen valoja vain pikaisesti
