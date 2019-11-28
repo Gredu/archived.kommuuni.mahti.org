@@ -1,1 +1,1 @@
-# community.mahti.org
+# kommuuni.mahti.org
