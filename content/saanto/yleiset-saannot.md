@@ -36,6 +36,11 @@ Hiljaisuuspoikkeuksia on vain kaksi. Nämä ovat Kommuunin isot juhlat, eli hall
 
 Muista juhlista, jotka menevät yli hiljaisuuden, on erikseen saatava jokaiselta Kommuunin asukkaalta lupa.
 
+## Majoittaminen
+**Ainoastaan makuuhuoneisiin saa majoittaa.**
+
+Satunnaiseen majoittamiseen ei tarvita lupaa. Viikon yhtäjaksoiseen majoittamiseen tai säännölliseen majoittamiseen tarvitaan {{< role leader >}} lupa. Erittäin pitkiin yöpymisiin on maksettava korvausta joko Kommuunipankkiin tai suoraan vuokranantajalle. Päätöksen tästä tekee {{< role leader >}}.
+
 ## Tiskit
 Likaisten tiskien säilytys keittiössä on kielletty. **Jos et pysty pesemään asitioitasi välittömästi, vie ne omaan huoneeseesi.** *Yleensä oma sotku ei häiritse, mutta toisen sotku kummasti pistää häiritsemään.*
 
