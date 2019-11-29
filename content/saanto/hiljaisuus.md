@@ -4,9 +4,7 @@ date: 2019-11-28T14:33:53+02:00
 categories: ["säännöt"]
 ---
 ## Kohtelias hiljaisuus
-Noin 22:00 aikaan on oltava tietoinen siitä, ketkä saattavat olla jo nukkumassa. Jos makuuhuone on kello n. 22:00 aikaan kiinni eikä valoja pala, voi olettaa että huoneessa asuva henkilö on jo nukkumassa. Huomioi toista ja käytä maalaisjärkeä. Älä läimäyttele ovia ja käytä mielummin sitä vessaa, minkä viereisessä makuuhuoneessa ei vielä nukuta jne.
-
-Kohtelias hiljaisuus ei ole vain hiljaisuussääntö nukkumista varten, vaan myös rauhoittumista varten. Kello 22:00 ei ole siis kiveen hakattu aika. Asukkaiden on joustettava sen mukaan, kuinka näkee muiden käyttäytyvän. Jos joku on jo kello 21:00 valmistautumassa nukkumaan ja rauhoittumassa, kannattanee jättää väliin kovaääniset aktiviteetit ainakin yleisissä tiloissa.
+Kello 21:00 jälkeen on rauhoittumisen aika. Kovaäänistä aktiviteettia on vältettävä, mikäli asukkaita on huoneissaan rauhoittumassa nukkumista varten. Kello 21:00 jälkeen on alettava huomioimaan muita. On siis käytettävä omaa harkintaa sen mukaan, miten kovaäänistä melua on hyvä pitää.
 
 Esimerkkejä:
 
@@ -23,6 +21,8 @@ Pääsääntöisesti naapurit ovat olleet melkoisen suopeita kovallekin melulle 
 
 Kannattaa jo ennakkoon vaatia hiljaisuutta esimerkiksi Kommuunin yhteisessä WhatsApp-ryhmässä, jos tietää että on menossa aikaisin nukkumaan. Myöskin toiseen suuntaan kannattaa ilmoitella, eli jos kovaäänisyys jatkuu yli kello 22:00. *esim. videotykin käyttö menee yli kello 22:00*
 
+Mikäli joku vaatii hiljaisuutta, on kovaäänistä melua vältettävä ja valoja käytettävä siten, ettei se aiheuta haittaa. Vaikka kukaan ei hiljaisuutta vaadi, on kuitenkin Kohtelias hiljaisuus aina voimassa.
+
 ## Hiljaisuuden poikkeukset
 
 Hiljaisuuspoikkeuksia on vain kaksi. Nämä ovat Kommuunin isot juhlat, eli halloween ja pikkujoulu. Tällöin hiljaisuus siirretään edemmäs, mutta ei kuitenkaan yli keskiyön. Tästä siirroksesta on muistutettava vielä erikseen vielä Kommuunin WhatsApp-ryhmässä. **Näissä juhlissa ei voi vaatia tai julistaa hiljaisuutta kello 22:00 jälkeen.** Juhlat kuitenkin loppuvat aina viimeistään keskiyöllä.
@@ -31,3 +31,5 @@ Muista juhlista, jotka menevät yli hiljaisuuden, on erikseen saatava jokaiselta
 
 ## Pesukone
 Pesukoneen ohjelman on päätyttävä kello 22:00. *Pesukone saattaa häiritä naapureita.*
+
+Pesukone saa olla toiminnassa taas aamulla kello 06:00. *Asetettu **Anshulia** varten, muuten 05:00.*
