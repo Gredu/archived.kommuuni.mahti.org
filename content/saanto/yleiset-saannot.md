@@ -16,7 +16,7 @@ Poikkeuksen tähän sääntöön saa tehdä vain, jos on ei-kommuunilainen kaver
 Katso myös [tiskien kuivaamiseen]({{< ref "/ohje/tiskien-kuivaus.md">}}) liittyvät ohjeet.
 
 ## Ruuan säilöntä
-Kattilat ja pannut ovat pääsääntöisesti tarkoitettu ruuan valmistamiseen, ei säilyttämiseen. Ruokaa saa säilyttää pannuissa ja kattiloissa ainostaan, jos ruokaa on sen verran, etä se ei mahdu mihinkään säilytysrasiaan. Jos ruuan tai juoman haluaa jakaa FFA:na kaikille, tulee se se asettaa tarjoilulle tarkoitettuun kulhoon tai juomakannuun keittiön pöydälle. *Tämä sääntö on olemassa esteettissistä syistä.*
+Kattilat ja pannut ovat pääsääntöisesti tarkoitettu ruuan valmistamiseen, ei säilyttämiseen. Ruokaa saa säilyttää pannuissa ja kattiloissa ainostaan, jos ruokaa on sen verran, etä se ei mahdu mihinkään säilytysrasiaan. Jos ruuan tai juoman haluaa jakaa FFA:na kaikille, tulee se se asettaa tarjoilulle tarkoitettuun kulhoon tai juomakannuun keittiön pöydälle.
 
 Viimeinen henkilö, joka kuluttaa kulhossa olevan FFA-ruuan tai juomakannussa olevan FFA-juoman, tulee pestä kyseinen astia.
 
