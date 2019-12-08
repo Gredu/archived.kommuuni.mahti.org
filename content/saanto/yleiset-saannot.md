@@ -25,6 +25,11 @@ Viimeinen henkilö, joka kuluttaa kulhossa olevan FFA-ruuan tai juomakannussa ol
 
 Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestävä tarpeittensa jälkeen. 
 
+## Siisteys ja esteettisyys
+**Jokaisen asukkaan on huolehdittava omasta siisteydestään, eikä saa aiheuttaa esteettistä haittaa ympäristölle.** Omat sotkut on siivottava. Tavaroita ei saa jättää yleiseen tilaan aiheuttamaan esteettistä haittaa.
+
+**Omien vaatteiden ja lakanoiden kuivaus ainoastaan omassa huoneessa.** Kommuunin lakanat saa kuivattaa yleisissä tiloissa.
+
 ## Pullopantit
 Pantilliset pullot kerätään keittiössä. Kaikki panteista tulevat tuotot menevät [kommuunipankille]({{< ref "/sopimus/kommuunipankki.md" >}}). Myös juhlista tulevat pantit menevät kommuunipankkiin ns. juhlaverona.
 
