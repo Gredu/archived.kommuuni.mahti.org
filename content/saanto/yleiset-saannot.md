@@ -28,7 +28,9 @@ Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestäv
 ## Siisteys ja esteettisyys
 **Jokaisen asukkaan on huolehdittava omasta siisteydestään, eikä saa aiheuttaa esteettistä haittaa ympäristölle.** Omat sotkut on siivottava. Tavaroita ei saa jättää yleiseen tilaan aiheuttamaan esteettistä haittaa.
 
-**Omien vaatteiden ja lakanoiden kuivaus ainoastaan omassa huoneessa.** Kommuunin lakanat saa kuivattaa yleisissä tiloissa.
+**Omien vaatteiden ja lakanoiden kuivaus ainoastaan omassa huoneessa.** Kommuunin lakanat saa kuivattaa yleisissä tiloissa. Kannattaa kuitenkin suosia kellaritiloissa olevia kuivaushuoneita jos mahdollista. Katso [pyykkien pesu]({{< ref "/ohje/pyykkien-pesu.md" >}}).
+
+Kengät on eteisessä laitettava kenkätelineisiin.
 
 ## Pullopantit
 Pantilliset pullot kerätään keittiössä. Kaikki panteista tulevat tuotot menevät [kommuunipankille]({{< ref "/sopimus/kommuunipankki.md" >}}). Myös juhlista tulevat pantit menevät kommuunipankkiin ns. juhlaverona.
