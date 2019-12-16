@@ -22,3 +22,5 @@ Kommuunissa sääntöjä saa rikkoa, jos ei riko sen olemassaolon syytä ja ymm�
 
 ## Suositeltu lukemisjärjestys
 Aloita lukemalla kaikki **Säännöt**. Lue **Ohjeet** ainoastaan, jos tarvitset apua johonkin, tai sinut on vartavasten ohjattu niitä lukemaan.
+
+foo
