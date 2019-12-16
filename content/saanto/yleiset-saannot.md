@@ -26,11 +26,22 @@ Viimeinen henkilö, joka kuluttaa kulhossa olevan FFA-ruuan tai juomakannussa ol
 Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestävä tarpeittensa jälkeen. 
 
 ## Siisteys ja esteettisyys
-**Jokaisen asukkaan on huolehdittava omasta siisteydestään, eikä saa aiheuttaa esteettistä haittaa ympäristölle.** Omat sotkut on siivottava. Tavaroita ei saa jättää yleiseen tilaan aiheuttamaan esteettistä haittaa.
+**Jokaisen asukkaan on huolehdittava omasta siisteydestään.** Omat sotkut on siivottava. 
+
+**Asukkaiden on huolehdittava myös yleisten tilojen esteettisyydestä.** Tavaroita ei saa jättää yleiseen tilaan aiheuttamaan esteettistä haittaa. Tavarat palautetaan myös samaan paikkaan ja yleissiistiä järjestystä on pidettävä yllä.
 
 **Omien vaatteiden ja lakanoiden kuivaus ainoastaan omassa huoneessa.** Kommuunin lakanat saa kuivattaa yleisissä tiloissa. Kannattaa kuitenkin suosia kellaritiloissa olevia kuivaushuoneita jos mahdollista. Katso [pyykkien pesu]({{< ref "/ohje/pyykkien-pesu.md" >}}).
 
 Kengät on eteisessä laitettava kenkätelineisiin.
+
+## Komerovaraston käyttö
+Komerovarastosta saa lainata kaikkia sieltä löytyvää, mutta ne on palautettava täsmälleen samaan paikkaan. Vain {{< role leader >}} saa vaihtaa järjestystä. Ainoastaan laukuista on selvitettävä, käyttääkö laukun omistaja itse sitä lähiaikoina. Tällä estetään, että laukun omistaja ei vahingossa jää laukuttomaksi omilla matkoillaan.
+
+**Omia henkilökohtaisisa vaatteita ei saa säilyttää komerovarastossa.**
+
+**Uusia tavaroita ei saa tuoda varastoon ilman {{< role leader >}}n lupaa.** Tällä pyritään pitämään varasto siistinä. Jos tarvitsee väliaikaista säilytyspaikkaa, on eteinen sitä varten.
+
+Säilytyksestä lisää [omalla sivulla]({{< ref "/saanto/sailytys.md" >}}).
 
 ## Pullopantit
 Pantilliset pullot kerätään keittiössä. Kaikki panteista tulevat tuotot menevät [kommuunipankille]({{< ref "/sopimus/kommuunipankki.md" >}}). Myös juhlista tulevat pantit menevät kommuunipankkiin ns. juhlaverona.
