@@ -3,7 +3,7 @@ title: "Ekologisuus ja kierrätys"
 date: 2018-08-17T00:08:22+03:00
 categories: ["ohjeet"]
 ---
-Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne voidaan viedä väliaikaisesti odottamaan eteiseen, mistä seuraava ulos lähtevä asukas vie ne lopulliseen päämääräänsä. Koskaan ei ole liian kiire, etteikö ehtisi viemään roskapusseja eteisestä muiden jaloista. Kotoa voi lähdeä vähän aikaisemmin. Roskien vieminen kestää vain minuutin.
+Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne voidaan viedä väliaikaisesti odottamaan eteiseen, mistä seuraava ulos lähtevä asukas vie ne lopulliseen päämääräänsä.
 
 Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa. Jokainen asukas on vastuussa bioastian viennistä oikeaan aikaan omalla vuorollaan. Ennakoi, älä päästä bioa liian täyteen.
 
@@ -21,7 +21,7 @@ Kaikkien edellä mainittujen kierrätyspisteet löytyvät kommuunin keittiöstä
 
 Muualla olevat kierrätyspisteet ja niiden sijainti Kommuunissa:
 
-  - paristot = eteinen
+  - paristot = komerovarasto
   - elektroniikka = komerovarasto
   - vaatteet = komerovarasto
 
@@ -47,8 +47,8 @@ Muutamia asioita, jotka säästävät vettä, elektroniikkaa ja aikaasi:
   - pese pyykkiä vain täysinä koneellisina
   - sammuta kaikki sähkölaitteet ja valot joita et käytä
   - käytä talvisin ulkoisten lämmitysten sijaan enemmän vaatteita 
-  - tiskiainetta tarvitaan yleensä vain tippa tai pari 
+  - käytä oikea määrä tiskiainetta, yleensä vähemmän riittää
   - ruokaa on taloudellisempaa valmistaa porukalla
-  - elintarviketuotteet, joita et käytä tai jotka muuten pilaantuisivat, laitetaan yhteiseen jakoon
+  - laita elintarviketuotteet, joita et käytä tai jotka muuten pilaantuisivat, yleiseen jakoon
 
 Lisää vinkkejä ja hyödyllistä tietoa [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) sivuilta.

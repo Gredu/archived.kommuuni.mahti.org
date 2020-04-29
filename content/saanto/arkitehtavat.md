@@ -1,5 +1,5 @@
 ---
-title: "Yleiset tehtävät"
+title: "Arkitehtävät"
 date: 2018-08-16T16:18:00+03:00
 categories: ["säännöt"]
 ---
@@ -12,17 +12,17 @@ Yleiset tehtävät Kontulan Kommuunissa:
   - kuivauskaapin tyhjentäminen
   - ruokailuvälineiden kuivaamiseen tarkoitetun korin tyhjentäminen
   - käsisaippuan ja tiskiaineen täyttäminen
-  - kaikkien [käytössä olevien kulutustuotteiden]({{< ref "/saanto/kaikille-yhteiset.md">}}) ostaminen
+  - kaikkien [käytössä olevien kulutustuotteiden]({{< ref "/saanto/kaikille-yhteiset.md" >}}) ostaminen
 
 ## Yleisten tilojen pyykit
-Yleisten tilojen likaiset pyykit säilytetään suihkuhuoneen pyykkikorissa. Kaikki tässä pyykkikorissa olevat lakanat on pestävä 60 asteessa. Yleisperiaatesääntö on pestä pyykit niin, että kone tulee mahdollisimman täyteen. Yleisten tilojen pyykit ovat hyvä täyte, jos omat pyykit eivät täytä konetta tarpeeksi. Samalla tulee säästäneeksi sähköä ja vettä. Lisää [ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md">}})
+Yleisten tilojen likaiset pyykit säilytetään suihkuhuoneen pyykkikorissa. Kaikki tässä pyykkikorissa olevat lakanat on pestävä 60 asteessa. Yleisperiaatesääntö on pestä pyykit niin, että kone tulee mahdollisimman täyteen. Yleisten tilojen pyykit ovat hyvä täyte, jos omat pyykit eivät täytä konetta tarpeeksi. Samalla tulee säästäneeksi sähköä ja vettä. Lisää [ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}})
 
 Vihreä matto suihkuhuoneessa pestään 40 asteessa.
 
-[Ohjeita pesukoneen käyttöön]({{< ref "/ohje/pyykkien-pesu.md">}}) on oma osionsa.
+Katso [ohjeet pesukoneen käyttöön]({{< ref "/ohje/pyykkien-pesu.md" >}}).
 
 ## Keittiön pöytäliina
-Keittiön pöytäliina vaihdetaan aina, kun on tarvetta. Puhtaita pöytäliinoja löytyy komerovarastosta. **Keittiön pöytää ei saa käyttää ilman pöytäliinaa.**
+Keittiön pöytäliina vaihdetaan, kun on tarvetta. Puhtaita pöytäliinoja löytyy komerovarastosta. **Keittiön pöytää ei saa käyttää ilman pöytäliinaa.**
 
 ## Roskat ja kierrätettävät
 Roskat ja kierrätettävät viedään eteiseen. Seuraava joka lähtee ovesta ulos, vie eteisestä roskat roskikseen ja kierrätettävät niille tarkoitetuille kierrätyspisteille.
@@ -43,16 +43,11 @@ Tiskit kuivatetaan ensisijaisesti kuivaukseen tarkoitetussa kuivauskaapissa. Jos
 
 Hyvä idea on ottaa puhtaat astiat suoraan kuivauskaapista, jolloin kaappia tarvitsee tyhjentää harvemmin. Sama periaate koskee myös ruokailuvälineiden kuivaustelinettä.
 
-## Pesuaineiden täyttäminen
-Täytä tiskiaine ja käsipesuainepumput, kun on tarvetta. Käsipesuainekanisteri löytyy pienestä vessasta ja tiskiaineet eteisestä.
-
 ## Maalaisjärki
-Maalaisjärkeä saa käyttää! Jos epäilet, että joku muu kuitenkin huolehtii asioista puolestasi, niin voit olla varma, että kaikki muutkin ajattelevat samoin. Asumisessa tulee paljon pieniä tehtäviä, joita ei ole järkevää kirjoittaa ylös, koska muuten tärkeimmät asiat hukkuvat vähäisimpien alle.
+Maalaisjärkeä saa käyttää! Jos epäilet, että joku muu kuitenkin huolehtii asioista puolestasi, niin voit olla varma, että kaikki muutkin ajattelevat samoin. Asumisessa tulee paljon pieniä tehtäviä, joita ei ole järkevää kirjoittaa ylös, koska muuten tärkeimmät asiat hukkuvat ei tärkeiden asioiden alle.
 
-*Jos isossa vessassa on vessapaperia jäljellä enää pari rullaa, hae lisää pienestä vessasta, missä vessapapereita säilytetään. Älä pelaa rulettia vessapapereilla!*
+Esimerkiksi:
 
-*Älä jätä valoja yöksi turhaan auki.*
-
-*Roskat roskikseen, ei jätetä pöydille tai minnekään muualle!*
-
-*jne.*
+  - jos isossa vessassa on vessapaperia jäljellä enää pari rullaa, hae lisää *ei pelata rulettia vessapapereilla*
+  - ei jätetä valoja turhaan auki *ekologisuus periaate*
+  - roskat roskikseen *jos esim. partavaahtopullo shampoo on loppu, sitä ei enää säilytetä suihkutiloissa*
