@@ -4,7 +4,13 @@ date: 2018-08-16T22:23:21+03:00
 ---
 Kontulan Kommuuni on viiden asukkaan koti Kontulan keskiössä. Kommuuni on ollut olemassa jo vuodesta 2014. Jokainen asukas on tuonut mukanaan omia tapojaan ja kulttuuria, joka on osin muokannut Kommuunin sääntöjä, tapoja ja henkeä. Nämä tavat ja säännöstöt on koottu yhteen nettisivuiksi, jonka tarkoitus on pitää yllä yhteisiä pelisääntöjä, ohjeita ja sopimuksia.
 
-Kommuunin järjestys perustuu vastuuseen. Jokaisella kommuunilaisella on omat vastuualueensa, jonka sisällä alueen valvoja saa luoda omat säännöt. Tarkempi kuvaus vastuun sisällöstä löytyy [omilta sivuilta]({{< ref "/saanto/vastuualueet.md" >}}).
+Kommuunin järjestys perustuu [vastuuseen]({{< ref "/saanto/vastuualueet.md" >}}). Kommuunissa on kolme vastuualuetta:
+
+  - vessa ja suihkuhuone
+  - keittiö
+  - yleiset tilat
+
+Vastuussa oleva henkilö voi luoda omia sääntöjä omalla alueellaan.
 
 Kommuunilla on muutamia periaatteita:
 

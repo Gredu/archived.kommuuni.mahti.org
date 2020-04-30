@@ -113,6 +113,9 @@ img {
   ul {
     color: $foreground;
     font-size: $fontSize;
+    li {
+      margin-bottom: .3em;
+    }
   }
   display: flex;
   flex-direction: column;

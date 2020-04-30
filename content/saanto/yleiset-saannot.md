@@ -23,20 +23,17 @@ Kattilat ja pannut ovat pääsääntöisesti tarkoitettu ruuan valmistamiseen, e
 
 Viimeinen henkilö, joka kuluttaa kulhossa olevan FFA-ruuan tai juomakannussa olevan FFA-juoman, tulee pestä kyseinen astia.
 
-## Majoittaminen
-**Ainoastaan makuuhuoneisiin saa majoittaa.**
+## Majoittaminen ja yöpyminen
+**Ainoastaan makuunhuoneissa saa nukkua.** Yleisissä tiloissa saa ottaa päikkäreitä tai nuokkua.
 
-Satunnaiseen majoittamiseen ei tarvita lupaa. Viikon yhtäjaksoiseen majoittamiseen tai säännölliseen majoittamiseen tarvitaan {{< role leader >}} lupa. Erittäin pitkiin yöpymisiin on maksettava korvausta joko Kommuunipankkiin tai suoraan vuokranantajalle. Päätöksen tästä tekee {{< role leader >}}.
+Satunnaiseen majoittamiseen ei tarvita lupaa. Viikon yhtäjaksoiseen majoittamiseen tai säännölliseen majoittamiseen tarvitaan lupa. Erittäin pitkiin yöpymisiin on maksettava korvausta joko Kommuunipankkiin tai suoraan vuokranantajalle. 
 
 ## Henkilökohtainen hygienia
-**Jokaisen asukkaan on huolehdittava omasta hygieniastaan.**
 
 Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestävä tarpeittensa jälkeen. 
 
-## Siisteys ja esteettisyys
-**Jokaisen asukkaan on huolehdittava omasta siisteydestään.** Omat sotkut on siivottava. 
-
-**Asukkaiden on huolehdittava myös yleisten tilojen esteettisyydestä.** Tavaroita ei saa jättää yleiseen tilaan aiheuttamaan esteettistä haittaa. Tavarat palautetaan myös samaan paikkaan ja yleissiistiä järjestystä on pidettävä yllä.
+## Siisteys, esteettisyys ja henkilökohtainen hygienia
+**Jokaisen asukkaan on huolehdittava omasta hygieniastaan, siivottava omat sotkunsa ja pidettävä yllä yleisten tilojen esteettisyydestä.** Tavaroita ei saa jättää yleiseen tilaan aiheuttamaan esteettistä haittaa. Lainatut tavarat on palautettava samaan paikkaan. Yleissiistiä järjestystä on pidettävä yllä.
 
 **Omien vaatteiden ja lakanoiden kuivaus ainoastaan omassa huoneessa.** Kommuunin lakanat saa kuivattaa yleisissä tiloissa. Kannattaa kuitenkin suosia kellaritiloissa olevia kuivaushuoneita jos mahdollista. Katso [pyykkien pesu]({{< ref "/ohje/pyykkien-pesu.md" >}}).
 
