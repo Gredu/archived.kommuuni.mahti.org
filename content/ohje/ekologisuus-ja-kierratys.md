@@ -3,9 +3,9 @@ title: "Ekologisuus ja kierrätys"
 date: 2018-08-17T00:08:22+03:00
 categories: ["ohjeet"]
 ---
-Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne voidaan viedä väliaikaisesti odottamaan eteiseen, mistä seuraava ulos lähtevä asukas vie ne lopulliseen päämääräänsä.
+Keittiössä ja komerovarastossa on erilaisia kierrätyspisteitä. Kun roskakori tai kierrätysastiat ovat täynnä, ne viedään väliaikaisesti eteiseen, mistä seuraava ulos lähtevä asukas vie ne jätekatokselle.
 
-Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa. Jokainen asukas on vastuussa bioastian viennistä oikeaan aikaan omalla vuorollaan. Ennakoi, älä päästä bioa liian täyteen.
+Bio on tästä ainoa poikkeus. **Älä jätä biojätettä eteiseen**. Biojäte on vietävä suoraan kierrätyspisteeseen jätekatoksella. Biolla on oma vuorolistansa, joka on kiinni pakastimen ovessa. Jokainen asukas on vastuussa bioastian viennistä oikeaan aikaan omalla vuorollaan. Ennakoi, älä päästä bioa liian täyteen.
 
 ## Kierrätys
 Ulko-oven edessä sijaitsevassa roskakatoksessa on seuraavat kierrätyspisteet:
@@ -17,13 +17,13 @@ Ulko-oven edessä sijaitsevassa roskakatoksessa on seuraavat kierrätyspisteet:
   - bio
   - pantilliset pullot
 
-Kaikkien edellä mainittujen kierrätyspisteet löytyvät kommuunin keittiöstä.
+Kaikkien edellä mainittujen kierrätyspisteet löytyvät kommuunin keittiöstä, paitsi paperikierrätys, joka on eteisessä.
 
-Muualla olevat kierrätyspisteet ja niiden sijainti Kommuunissa:
+Muualla olevat kierrätyspisteet ovat komerovarastossa:
 
-  - paristot = komerovarasto
-  - elektroniikka = komerovarasto
-  - vaatteet = komerovarasto
+  - paristot 
+  - elektroniikka 
+  - vaatteet 
 
 Paristot voi viedä lähes mihin tahansa lähikauppaan. Vaatteiden kierrätyspiste on Kontulan terveysaseman parkkipaikalla.
 
@@ -48,7 +48,7 @@ Muutamia asioita, jotka säästävät vettä, elektroniikkaa ja aikaasi:
   - sammuta kaikki sähkölaitteet ja valot joita et käytä
   - käytä talvisin ulkoisten lämmitysten sijaan enemmän vaatteita 
   - käytä oikea määrä tiskiainetta, yleensä vähemmän riittää
-  - ruokaa on taloudellisempaa valmistaa porukalla
+  - ruoka on taloudellisempaa valmistaa porukalla
   - laita elintarviketuotteet, joita et käytä tai jotka muuten pilaantuisivat, yleiseen jakoon
 
 Lisää vinkkejä ja hyödyllistä tietoa [HSY](https://www.hsy.fi/en/residents/Pages/default.aspx) sivuilta.

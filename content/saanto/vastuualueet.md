@@ -7,8 +7,6 @@ Kommuuni toimii vastuuperiaatteella. Melkein jokaisella asukkaalla on oma vastuu
 
 Vastuuhenkilö voi määrätä asukkaan siivoamaan omat sotkunsa.
 
-*Esimerkkejä: Pakastimen puhtaanapito ja ajoittaiset sulattamiset kuuluvat keittiövastaavalle, mutta tähän hän voi pyytää apuvoimia. Jos lamppu on hajonnut yleisissä tiloissa, yleisten tilojen vastaava hankkii ja vaihtaa lamput. Jos suihkuhuoneen kattoon alkaa ilmaantua mustia läikkiä, vessavastaava pitää huolta, että se siivotaan. Eli perussiivouksen lisäksi on joskus tehtävä jotain vähän poikkeavaakin.*
-
 Vastuualueet:
 
   - vessa ja suihkuhuone - {{< role toilets >}}
@@ -17,7 +15,7 @@ Vastuualueet:
   - meta - {{< role leader >}}
   - tukija - {{< role support >}}
 
-**Yleisen tilojen vastaava siivoaa myös keittiön lattian.** Lika leviää keittiön lattiasta muualle asuntoon, tai yleisistä tiloista keittiöön, jos lattioita ei imuroida ja pestä samaan aikaan.*
+**Yleisen tilojen vastaava siivoaa myös keittiön lattian.**
 
 **Jokaisen asukkaan tulee käyttää vähintään kaksi tuntia siivoamiseen, mutta enintään 4 tuntia.**
 
@@ -25,7 +23,7 @@ Vastuualue ei tarkoita sitä, että ainoastaan siivoaa kyseistä aluetta. Vastuu
 
 Vastuualueen lisäksi on tehtävä [yleisiä tehtäviä]({{< ref "/saanto/arkitehtavat.md" >}}). Näistä tehtävistä ei lasketa tunteja kotitöihin. Jos jokin yleisten tehtävien tehtävistä tapahtuu vastuualueella, on vastuuhenkilön vain osittain hoidettava ne. Vastuuhenkilö pitää huolta, että kaikki tekevät suunnilleen yhtä paljon yleisiä tehtäviä vastuualueellaan.
 
-Vastuuhenkilö huolehtii siitä, että vastuualueen siistiminen on delegoitu jollekin asukkaalle silloin kun vastuuhenkilö on itse poissa Kommuunista. **Vastuu ei siirry, vaikka henkilö on poissa kommuunissa.** Vastuussa oleva henkilö pitää huolta, että delegoitu henkilö hoitaa työnsä. 
+Vastuuhenkilö huolehtii siitä, että vastuualueen siistiminen on delegoitu jollekin asukkaalle silloin kun vastuuhenkilö on itse poissa Kommuunista. **Vastuu ei siirry, vaikka henkilö on poissa kommuunissa.** Vastuussa oleva henkilö pitää huolta, että delegoitu henkilö hoitaa ja tietää työnsä. 
 
 Vastuuhenkilö huolehtii vastuualueellaan seuraavista asioista:
 
@@ -59,7 +57,7 @@ Isommat tehtävät:
 ### Yleiset tilat
 Perusrutiineihin kuuluu
 
-  - imurointi (muista myös rapussa oleva matto ja komerovaraston käytävä)
+  - imurointi (muista myös ulkorapussa oleva matto ja komerovaraston käytävä)
   - pintojen siistiminen (pölyt, tahrat jne.)
 
 Isommat tehtävät:
@@ -89,15 +87,9 @@ Asukkailla on vapaus valita millä tavalla kontribuoi kommuuniin. Vastuuperiaate
 
 Valvotussa rutiinisiivouksessa asukas merkitsee kommuunikalenteriin milloin on tehnyt rutiinisiivouksen. Seuraava rutiinitehtävä tapahtuu aina kahden viikon päästä +1 tai -2 päivien sisällä ja se merkitään kalenteriin. Asukas ei ole vastuussa mistään alueesta. Alueen vastuu siirtyy kommuunijohtajalle, mutta hänen tehtäväkseen jää vain valvoa, että rutiinisiivous tehdään aikataulutetusti.
 
-Rutiinitehtävistä voi maksaa itsensä ulos 20 eurolla per kuukausi. Sopimuksen on kestettävä vähintään puoli vuotta. Tämä tulo jaetaan sen mukaan, miten monta vastuuhenkilöä ja maksajia kommuunissa on:
+Jos siivoaminen ei nappaa, voi vaihtoehtoisesti ostaa itsensä ulos velvollisuuksista 20 eurolla kuukausi. Sopimuksen on kestettävä vähintään puoli vuotta. Tämä tulo jaetaan sen mukaan, miten monta vastuuhenkilöä ja maksajia kommuunissa on. Tämä sovitaan tapauskohtaisesti.
 
-  - yksi vastuuhenkilö: palkataan ammattisiivoaja ja loput tuloista vastuuhenkilölle
-  - kaksi vastuuhenkilöä: 20€ kommuunipankkiin ja 40€ vastuuhenkilöille
-  - kolme vastuuhenkilöä: 40€ kommuunipankkiin
-  - neljä vastuuhenkilöä: 20€ kommuunipankkiin ja yksi vastuuhenkilö pitää vuorotteluvapaata
-  - viisi vastuuhenkilöä: 20€ kommuunipankkiin ja kaksi vastuuhenkilöä pitää vuorotteluvapaata
-
-Vaikka asukas olisikin ostanut itsensä ulos vastuusta ja rutiinisiivouksesta, hänen on silti tehtävä [arkitehtäviä]({{< ref "saanto/arkitehtavat.md" >}}).
+Vaikka asukas olisikin ostanut itsensä ulos vastuusta ja rutiinisiivouksesta, hänen on silti tehtävä [arkitehtäviä]({{< ref "saanto/arkitehtavat.md" >}}) ja siivottava omat sotkunsa.
 
 Itsensä pois ostanut on nimikkeellä "tukija".
 

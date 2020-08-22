@@ -15,18 +15,18 @@ Tärkeimmät pesuohjelmat pesukoneessa ovat tekstiilipesu 40 asteessa ja ekopesu
 Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös käyttää ilmaiseksi. Ohjeet näiden käyttöön löytyy paikanpäältä.
 
 ## Pesupulveri
-**Yksi lusikallinen pesupulveria riittää.** Annostelulusikka löytyy pesupulveripakkauksen sisältä. Erittäin likaisille tai yhteistilojen pyykeille puolitoista lusikallista pyykinpesupulveria. Pulveri laitetaan pesukoneessa kohtaan, jossa lukee II.
+**Yksi lusikallinen pesupulveria riittää.** Annostelulusikka löytyy pesupulveripakkauksen sisältä. Erittäin likaisille tai yhteistilojen pyykeille puolitoista lusikallista pyykinpesupulveria. Pulveri tai pesuneste laitetaan pesukoneeseen kohtaan, jossa lukee II.
 
-*Koneeseen voi laittaa myös esi- ja jälkipesulle tarkoitettua ainetta. Näille on omat lokeronsa, mutta kyseiset aineet eivät ole pakollisia pyykkien puhtautta ajatellen. Jos näitä aineita kuitenkin laittaa, voi olla, että koneelle pitää erikseen kertoa, että käyttää esi- tai jälkipesua.*
+*Koneeseen voi laittaa myös esi- ja jälkipesulle tarkoitettua ainetta. Näille on omat lokeronsa, mutta kyseiset aineet eivät ole pakollisia. Jos näitä aineita kuitenkin laittaa, voi olla, että koneelle pitää erikseen kertoa, että käyttää esi- tai jälkipesua.*
 
 ## Kuivaaminen
 Kuivaushuoneet sijaitsevat kellarissa. Kuivaushuoneet 27 ja 32 vaativat varauksen ennen käyttöä. Varauslista löytyy pesutuvasta, joka on kuivaushuoneiden 27 ja 32 välissä. Pesutuvassa on myös kuivausrumpu, jota voi käyttää ilmaiseksi ja ilman ajanvarausta.
 
-Kolmas kuivaushuone sijaitsee kellarikäytävän päässä. Tähän huoneeseen ei tarvitse tehdä varauksia.
+Kolmas kuivaushuone sijaitsee kellarikäytävän päässä. Tämän huoneen varauslista löytyy itse kuivaushuoneesta.
 
-Yleensä kuivaushuoneet 27 ja 32 ovat lähes aina vapaina, joten niitä ei yleensä ole tarvetta varata etukäteen, kunhan varaa silloin kun kuivashuoneessa käy.
+Kuivaushuoneet ovat olleet lähes aina vapaita, joten yleensä ei ole ollut tarvetta varata etukäteen. Muista kuitenkin varata kuivaushuone, vaikka aikasi alkaakin siitä hetkestä, kun kirjaat varauslistaan.
 
 ## Pesukoneen käyttö ekologisesti
-**Pese pyykkiä vain täysinä koneellisina.** Käytä täytteenä yhteisten tilojen pyykkejä. Nämä pyykit löytyvät suihkuhuoneen pyykkikorista. Yleisten tilojen pyykkien peseminen on Kommuunissa [perustehtävä]({{< ref "/saanto/yleiset-saannot.md">}}).
+**Pese pyykkiä täysinä koneellisina.** Käytä täytteenä yhteisten tilojen pyykkejä. Nämä pyykit löytyvät komerovarastosta heti vasemmalla. Yleisten tilojen pyykkien peseminen on Kommuunissa [perustehtävä]({{< ref "/saanto/yleiset-saannot.md">}}).
 
 [Ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md">}}) voi lukea lisää omasta osiostaan.

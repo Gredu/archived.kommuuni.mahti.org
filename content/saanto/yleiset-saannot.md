@@ -3,9 +3,9 @@ title: "Yleiset säännöt"
 date: 2018-08-15T22:39:36+03:00
 categories: ["säännöt"]
 ---
-Epäselvissä tilanteissa on viimekädessä noudatettava perusperiaatteita:
+Epäselvissä tilanteissa on viime kädessä noudatettava perusperiaatteita:
 
-  - ei teetätetä toisille turhaa työtä
+  - ei tehdä toisille turhaa työtä
   - kaikille taattava yörauha ja rauhoittumisaika ennen nukkumista
   - pyritään elämään ekologisesti
 
@@ -16,7 +16,7 @@ Likaisten tiskien säilytys keittiössä on kielletty. **Jos et pysty pesemään
 
 Poikkeuksen tähän sääntöön saa tehdä vain, jos on ei-kommuunilainen kaveri kylässä. Tällöin saa jättää tiskit huomiselle, jos seurustelukiireissään ei pysty tiskaamaan. **Usein vieraileva ystävä ei aiheuta tätä poikkeusta.** Esimerksiksi tyttö- tai poikaystävän varjolla ei saa tätä poikkeusta.
 
-Tiskit kuivatataan ensisijaisesti kuivaustelineessä. Jos kuivausteline on täynnä ja astiat kuivia, kuivausteline on tyhjennettävä. Kuivauskorille menetellään samoin. Katso [tiskien kuivaamiseen]({{< ref "/ohje/tiskien-kuivaus.md">}}) liittyvät ohjeet.
+Tiskit kuivataan ensisijaisesti kuivaustelineessä. Jos kuivausteline on täynnä ja astiat kuivia, kuivausteline on tyhjennettävä. Kuivauskorille menetellään samoin. Katso [tiskien kuivaamiseen]({{< ref "/ohje/tiskien-kuivaus.md">}}) liittyvät ohjeet.
 
 ## Ruuan säilöntä
 Kattilat ja pannut ovat pääsääntöisesti tarkoitettu ruuan valmistamiseen, ei säilyttämiseen. Ruokaa saa säilyttää pannuissa ja kattiloissa ainostaan, jos ruokaa on sen verran, etä se ei mahdu mihinkään säilytysrasiaan. Jos ruuan tai juoman haluaa jakaa FFA:na kaikille, tulee se se asettaa tarjoilulle tarkoitettuun kulhoon tai juomakannuun keittiön pöydälle.
@@ -40,7 +40,7 @@ Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestäv
 Kengät on eteisessä laitettava kenkätelineisiin.
 
 ## Komerovaraston käyttö
-Komerovarastosta saa lainata kaikkia sieltä löytyvää, mutta ne on palautettava täsmälleen samaan paikkaan. Vain {{< role leader >}} saa vaihtaa järjestystä. Ainoastaan laukuista on selvitettävä, käyttääkö laukun omistaja itse sitä lähiaikoina. Tällä estetään, että laukun omistaja ei vahingossa jää laukuttomaksi omilla matkoillaan.
+Komerovarastosta saa lainata tavaraa, mutta ne on palautettava täsmälleen samaan paikkaan. Vain {{< role leader >}} saa vaihtaa järjestystä. Ainoastaan laukuista on selvitettävä, käyttääkö laukun omistaja itse sitä lähiaikoina. Tällä estetään, että laukun omistaja ei vahingossa jää laukuttomaksi omilla matkoillaan.
 
 **Omia henkilökohtaisisa vaatteita ei saa säilyttää komerovarastossa.**
 

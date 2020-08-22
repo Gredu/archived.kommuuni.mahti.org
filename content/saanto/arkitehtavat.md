@@ -15,22 +15,22 @@ Yleiset tehtävät Kontulan Kommuunissa:
   - kaikkien [käytössä olevien kulutustuotteiden]({{< ref "/saanto/kaikille-yhteiset.md" >}}) ostaminen
 
 ## Yleisten tilojen pyykit
-Yleisten tilojen likaiset pyykit säilytetään suihkuhuoneen pyykkikorissa. Kaikki tässä pyykkikorissa olevat lakanat on pestävä 60 asteessa. Yleisperiaatesääntö on pestä pyykit niin, että kone tulee mahdollisimman täyteen. Yleisten tilojen pyykit ovat hyvä täyte, jos omat pyykit eivät täytä konetta tarpeeksi. Samalla tulee säästäneeksi sähköä ja vettä. Lisää [ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}})
+Yleisten tilojen likaiset pyykit säilytetään suihkuhuoneen pyykkikorissa. Kaikki tässä pyykkikorissa olevat lakanat on pestävä 60 asteessa. Yleisperiaate sääntö on pestä pyykit siten, että kone tulee mahdollisimman täyteen. Yleisten tilojen pyykit ovat hyvä täyte, jos omat pyykit eivät täytä konetta. Samalla tulee säästäneeksi sähköä ja vettä. Lisää [ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}})
 
 Vihreä matto suihkuhuoneessa pestään 40 asteessa.
 
 Katso [ohjeet pesukoneen käyttöön]({{< ref "/ohje/pyykkien-pesu.md" >}}).
 
 ## Keittiön pöytäliina
-Keittiön pöytäliina vaihdetaan, kun on tarvetta. Puhtaita pöytäliinoja löytyy komerovarastosta. **Keittiön pöytää ei saa käyttää ilman pöytäliinaa.**
+Keittiön pöytäliina vaihdetaan, kun on tarvetta. Puhtaita pöytäliinoja löytyy komerovarastosta. **Keittiön pöytää ei saa käyttää ruokailuun ilman pöytäliinaa.**
 
 ## Roskat ja kierrätettävät
 Roskat ja kierrätettävät viedään eteiseen. Seuraava joka lähtee ovesta ulos, vie eteisestä roskat roskikseen ja kierrätettävät niille tarkoitetuille kierrätyspisteille.
 
 ### Bio
-Biovuorolista on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle. Jos seuraavana olevalla henkilöllä on punainen nappula, poista se ja hyppää seuraavaan henkilöön.
+Biovuorolista on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle pois oman nimesi kohdalta. Jos seuraavana olevalla henkilöllä on punainen nappula, poista se ja hyppää hänen yli seuraavaan henkilöön.
 
-Punainen nappula on merkki siitä, että bion on vienyt ei-vuorossa ollut asukas. Jos viet bion kun ei ole vuorosi, laita punainen nappula nimesi kohdalle, niin seuraavalla vuorollasi sinun ei tarvitse bioo viedä. Punaisia nappuloita saa haalia niin paljon kuin haluaa.
+Punainen nappula on merkki siitä, että bion on vienyt ei-vuorossa ollut asukas. Jos viet bion kun ei ole vuorosi, laita punainen nappula nimesi kohdalle, jolloin seuraavalla vuorollasi sinun ei tarvitse viedä bioo. Punaisia nappuloita saa haalia niin paljon kuin haluaa.
 
 Jos bioastia on likaantunut, pese se.
 
@@ -44,7 +44,7 @@ Tiskit kuivatetaan ensisijaisesti kuivaukseen tarkoitetussa kuivauskaapissa. Jos
 Hyvä idea on ottaa puhtaat astiat suoraan kuivauskaapista, jolloin kaappia tarvitsee tyhjentää harvemmin. Sama periaate koskee myös ruokailuvälineiden kuivaustelinettä.
 
 ## Maalaisjärki
-Maalaisjärkeä saa käyttää! Jos epäilet, että joku muu kuitenkin huolehtii asioista puolestasi, niin voit olla varma, että kaikki muutkin ajattelevat samoin. Asumisessa tulee paljon pieniä tehtäviä, joita ei ole järkevää kirjoittaa ylös, koska muuten tärkeimmät asiat hukkuvat ei tärkeiden asioiden alle.
+Maalaisjärkeä saa käyttää! Jos epäilet, että joku muu kuitenkin huolehtii asioista puolestasi, voit olla varma, että kaikki muutkin ajattelevat samoin. Asumisessa tulee paljon pieniä tehtäviä, joita ei ole järkevää kirjoittaa ylös, koska muuten tärkeimmät asiat hukkuvat ei tärkeiden asioiden alle.
 
 Esimerkiksi:
 
