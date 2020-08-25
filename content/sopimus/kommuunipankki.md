@@ -3,7 +3,7 @@ title: "Kommuunipankki"
 date: 2018-08-17T04:13:00+03:00
 categories: ["sopimukset"]
 ---
-Kommuunipankki toimii luottoperiaatteella. Kun tilissä on -50€ tai alle, asukkaiden on tasattava se.
+Kommuunipankki toimii luottoperiaatteella. Kun tilissä on (-10€ * (asukkaiden määrä)) tai alle, asukkaiden on tasattava se plussan puolelle. Tasaus tapahtuu aina kun asukas muuttaa pois tai sisään riippumatta velan määrästä. Sisään muuttava ei osallistu tasaukseen.
 
 Tiliote löytyy [Googlesta](https://docs.google.com/spreadsheets/d/1ENhYNFARda3AuRoAyU0aiXNOS3dr70M4JPPfkL_pwBw/edit?usp=sharing).
 
