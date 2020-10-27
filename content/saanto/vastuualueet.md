@@ -17,11 +17,11 @@ Vastuualueet:
 
 **Yleisen tilojen vastaava siivoaa myös keittiön lattian.**
 
-**Jokaisen asukkaan tulee käyttää vähintään kaksi tuntia siivoamiseen, mutta enintään 4 tuntia.**
+**Jokaisen asukkaan tulee käyttää vähintään kaksi tuntia siivoamiseen.**
 
-Vastuualue ei tarkoita sitä, että ainoastaan siivoaa kyseistä aluetta. Vastuualue tarkoittaa myös johtamista, delegoimista ja sääntöjen valvontaa vastuualueella. Uusia sääntöjä saa luoda helpottamaan alueen puhtaanapidossa ja viihtyvyydessä. Jos huomaa tekevänsä yli neljä tuntia kuukaudessa siivoushommia, kannattaa pyrkiä asettamaan uusia sääntöjä, jotka pitävät vastuualueen paremmin puhtaana ja työmäärän kohtuullisena. Lisäapua voi hakea muilta.
+Vastuualue ei tarkoita sitä, että ainoastaan siivoaa kyseistä aluetta. Vastuualue tarkoittaa myös johtamista, delegoimista ja sääntöjen valvontaa vastuualueella. Uusia sääntöjä saa luoda helpottamaan alueen puhtaanapidossa ja viihtyvyydessä. Jos huomaa tekevänsä reilusti yli kaksi tuntia kuukaudessa siivoushommia, kannattaa pyrkiä asettamaan uusia sääntöjä, jotka pitävät vastuualueen paremmin puhtaana ja työmäärän kohtuullisena. Lisäapua voi hakea muilta.
 
-Vastuualueen lisäksi on tehtävä [yleisiä tehtäviä]({{< ref "/saanto/arkitehtavat.md" >}}). Näistä tehtävistä ei lasketa tunteja kotitöihin. Jos jokin yleisten tehtävien tehtävistä tapahtuu vastuualueella, on vastuuhenkilön vain osittain hoidettava ne. Vastuuhenkilö pitää huolta, että kaikki tekevät suunnilleen yhtä paljon yleisiä tehtäviä vastuualueellaan.
+Vastuualueen lisäksi on tehtävä [yleisiä tehtäviä]({{< ref "/saanto/arkitehtavat.md" >}}). Jos jokin yleisten tehtävien tehtävistä tapahtuu vastuualueella, on vastuuhenkilön vain osittain hoidettava ne. Vastuuhenkilö pitää huolta, että kaikki tekevät suunnilleen yhtä paljon yleisiä tehtäviä vastuualueellaan.
 
 Vastuuhenkilö huolehtii siitä, että vastuualueen siistiminen on delegoitu jollekin asukkaalle silloin kun vastuuhenkilö on itse poissa Kommuunista. **Vastuu ei siirry, vaikka henkilö on poissa kommuunissa.** Vastuussa oleva henkilö pitää huolta, että delegoitu henkilö hoitaa ja tietää työnsä. 
 
@@ -32,7 +32,7 @@ Vastuuhenkilö huolehtii vastuualueellaan seuraavista asioista:
   - sääntöjen valvominen
   - korjaa tai delegoi korjaustyöt
 
-Käytännössä vastuuhenkilö pitää huolta vastuualueensa viihtyvyydestä.
+Vastuuhenkilö pitää huolta vastuualueensa viihtyvyydestä.
 
 ## Vastuualueen siivousrutiinit ja tehtävät
 Asukkaat päättävät itse siivousrutiineista ja ajankohdista. Jos rutiinia ei ole, tässä hyväksi todettu tapa:
@@ -43,54 +43,28 @@ Asukkaat päättävät itse siivousrutiineista ja ajankohdista. Jos rutiinia ei 
 
 Isompiin hommiin kannattaa ottaa muita avuksi.
 
-### Keittiö
-Perusrutiineihin kuuluu 
+## Tehtävien kirjaus 
 
-  - puhdistaa kaikki tasot
-  - puhdistaa kaappien ulkopinnat, jos näkyy roiskeita tai muuta likaa
-  - pitää mikro ja leivänpaahdin puhtaana
+Kaikki Kontulan Kommuuniin liittyvät työt kirjataan jääkaapissa olevaan listaan. Tässä listassa on tekijän tai tekijöiden nimet, tehtäväkuvaus ja arvioitu työhön mennyt aika.
 
-Isommat tehtävät:
+Työaika merkitään viidentoista minuutin tarkkuudella ja pyöristetään aina alaspäin. Esimerkiksi 22 minuutin työ pyöristetään 15 minuuttiin, ja 37 minuutin työ 30 minuuttiin. Saman päivän aikoja voi yhdistää. Jos aamulla kommuuniin pyykkien pesemiseen meni 5 minuuttia ja illalla kuivaus ja viikkaus 10 minuuttia, voidaan työaika yhdistää 15 minuuttiin ja saada tällä tavalla merkinnän.
 
-  - jääkaapin ja pakastimen sisäinen hygienia ja siisteys
+Omien tehtävien ohella voikin olla järkevää tehdä [yleisiä tehtäviä]({{< ref "/saanto/arkitehtavat.md" >}}) täydentämään työaikoja seuraavaan viiteentoista minuuttiin.
 
-### Yleiset tilat
-Perusrutiineihin kuuluu
+Kommuunijohtajan on vaihdettava tehtävälista joka kuukausi ja laskettava yhteen työmäärät. Asukkaita voidaan määrätä maksamaan toisille asukkaille palkkaa tehdystä työstä, jos kommuunissa työmäärä ei ole jakautunut reilusti. Maksu tapahtuu kommuunipankin kautta, jotta hyvitykset saadaan alta pois äkkiä ja kommuunipankki jää velkoajaksi.
 
-  - imurointi (muista myös ulkorapussa oleva matto ja komerovaraston käytävä)
-  - pintojen siistiminen (pölyt, tahrat jne.)
+**Bion viemisestä, eikä oman makuuhuoneen siivoamisesta lasketa työaikaa. Myöskään omien sotkujen siivoamisesta ei lasketa aikaa.**
 
-Isommat tehtävät:
+## Siivouspalkkiot
 
-  - sohvan ja kaappien alta siivoaminen
-  - reunalistojen pölykerroksien pyyhkiminen
-  - ovien päällystöjen siivoaminen
-  - ovenkahvojen pyyhkiminen
-  - tuhkien tyhjentäminen takasta (menee tavalliseen roskikseen, ei bioon)
+Asukkaalta voidaan maksimissaan vaatia 20 euroa kuukaudessa toisen tekemästä työstä. Jos asukas tekee 2 tuntia tai enemmän töitä, häneltä ei vaadita korvausta.
 
-Yleistentilojen vastaavan kannattaa pitää mielessä, että edellä lueteltu lista on hyvin suppea. Kommuuniin yleiset tilat ovat isoja, eikä kaikkea tehtäviä ole mielekästä luetella. Yleisen tilojen vastaavan tulee varautua ottamaan vastuuta myös yllättävistä asioista.
+Tehtävälistan avulla voidaan laskea kuka on kenellekin velkaa. Esimerkiksi, jos A on tehnyt B:n alueella 15 minuuttia työtä ja B ei ole tehnyt ollenkaan töitä, on B:n maksettava A:lle 2,5 euroa. **15 minuuttia vastaa siis 2,5 euroa.**
 
-### Vessa ja suihkuhuone
-Perusrutiineihin kuuluu
+Mitä enemmän asukas tekee töitä, sitä enemmän hän on suojassa hyvitysmaksuista. Jos A on tehnyt töitä 75 minuuttia B:n alueella ja B on tehnyt töitä tunnin, saa A B:ltä hyvitystä 10 euroa, eikä 12,5 euroa, vaikka A olikin tehnyt enemmän töitä kuin tunnin.
 
-  - pönttöjen pesu
-  - lattioiden pesu
-  - tasojen ja lavuaarien pesu
+Yleisten tehtävien tapauksissa, eli tehtävät, jotka ei eivät tunnu kuuluvan kenellekään, veloitetetaan tasaisesti jokaiselta asukkaalta.
 
-Isommat tehtävät:
+## Itsensä pois ostaminen vastuualueista
 
-  - katon homeen poistaminen
-  - kaikkien kaappien puhdistaminen sisältä
-
-## Erilaisia tapoja osallistua kommuunin siisteyteen ja hyvinvointiin
-Asukkailla on vapaus valita millä tavalla kontribuoi kommuuniin. Vastuuperiaate on yksi tapa ja hyvin omaksuttuna tehokkain. Muita tapoja on esim. valvottu rutiinisiivous ja itsensä pois ostaminen.
-
-Valvotussa rutiinisiivouksessa asukas merkitsee kommuunikalenteriin milloin on tehnyt rutiinisiivouksen. Seuraava rutiinitehtävä tapahtuu aina kahden viikon päästä +1 tai -2 päivien sisällä ja se merkitään kalenteriin. Asukas ei ole vastuussa mistään alueesta. Alueen vastuu siirtyy kommuunijohtajalle, mutta hänen tehtäväkseen jää vain valvoa, että rutiinisiivous tehdään aikataulutetusti.
-
-Jos siivoaminen ei nappaa, voi vaihtoehtoisesti ostaa itsensä ulos velvollisuuksista 20 eurolla kuukausi. Sopimuksen on kestettävä vähintään puoli vuotta. Tämä tulo jaetaan sen mukaan, miten monta vastuuhenkilöä ja maksajia kommuunissa on. Tämä sovitaan tapauskohtaisesti.
-
-Vaikka asukas olisikin ostanut itsensä ulos vastuusta ja rutiinisiivouksesta, hänen on silti tehtävä [arkitehtäviä]({{< ref "saanto/arkitehtavat.md" >}}) ja siivottava omat sotkunsa.
-
-Itsensä pois ostanut on nimikkeellä "tukija".
-
-Kommuunissa on oltava vähintään yksi henkilö, joka ottaa vastuun.
+Jos tehtävien kirjaus ja hyvitysmaksujen maksaminen ahdistaa, voi valita olevansa kommuunin tukija. Tämä henkilö maksaa kuukaudessa 20 euroa kommuunipankkiin, mutta hän ei ole vastuussa mistään alueesta. Kommuunissa saa olla enintään kaksi tukijaa.
