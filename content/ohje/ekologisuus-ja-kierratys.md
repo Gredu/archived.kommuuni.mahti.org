@@ -15,7 +15,6 @@ Ulko-oven edessä sijaitsevassa roskakatoksessa on seuraavat kierrätyspisteet:
   - metalli
   - paperi
   - bio
-  - pantilliset pullot
 
 Kaikkien edellä mainittujen kierrätyspisteet löytyvät kommuunin keittiöstä, paitsi paperikierrätys, joka on eteisessä.
 
@@ -31,11 +30,6 @@ Elektroniikan voi kierrättää esimerkiksi Gigantissa Itäkeskuksessa.
 
 Kahdesti vuodessa taloyhtiön pihalle tulee kontti, johon voi heittää mm. huonekaluja. Sitä ennen huonekaluja kannattaa säilyttää varastossa.
 
-## Pantilliset pullot
-Paras paikka viedä pullot on Lidl. Lidlistä ostetuista pulloista ei aina välttämättä saa panttia s- tai k-kaupoista. Lidl hyväksyy kaikki pantilliset pullot, myös Alkon.
-
-Kaikki pantista tulevat tuotot menevät [kommuunipankille]({{< ref "/sopimus/kommuunipankki.md">}}). Jos viet pullot, anna panttirahat {{< role leader >}}lle, ja hän tilittää ne kommuunipankkiin.
-
 ## Bio
 Vain biojätettä bioon! Lisää tietoa [HSY](https://www.hsy.fi/en/residents/sorting/instructions/biowaste/Pages/default.aspx) sivuilta.
 
@@ -44,7 +38,7 @@ Bion tyhjentäminen on [yleinen tehtävä]({{< ref "/saanto/yleiset-saannot.md" 
 ## Ekologisuus
 Muutamia asioita, jotka säästävät vettä, elektroniikkaa ja aikaasi:
 
-  - pese pyykkiä vain täysinä koneellisina
+  - pese pyykkiä vain täysinä koneellisina, jos ei ole täynnä, täytä kommuuniin yleisillä pyykeillä
   - sammuta kaikki sähkölaitteet ja valot joita et käytä
   - käytä talvisin ulkoisten lämmitysten sijaan enemmän vaatteita 
   - käytä oikea määrä tiskiainetta, yleensä vähemmän riittää
