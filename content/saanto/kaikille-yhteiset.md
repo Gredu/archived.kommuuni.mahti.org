@@ -7,7 +7,6 @@ Kaikille yhteiset kulutettavat tuotteet:
 
   - yleisten tilojen lamput
   - suola
-  - pippuri
   - vessapaperi
   - tiskiaine
   - käsisaippua
@@ -15,7 +14,6 @@ Kaikille yhteiset kulutettavat tuotteet:
   - folio
   - uunipaperi / voipaperi
   - laastarit
-  - paristot
 
 Makuuhuoneissa olevat lamput ovat henkilökohtaisia. Kommuunipankki ei kustanna näitä.
 
