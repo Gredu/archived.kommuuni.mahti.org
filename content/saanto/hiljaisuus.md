@@ -11,11 +11,7 @@ Kello 22:00 jälkeen on hiljaisuus, ellei ole ilmiselvää, että kaikki asukkaa
 
 Pääsääntöisesti naapurit ovat olleet melkoisen suopeita kovallekin melulle ja juhlinnalle.
 
-Jos on tarvetta pitää melua kello 22:00 jälkeen, on siitä pyydettävä lupa WhatsApp-ryhmässä. Kello 22:00 jälkeen ei saa meluta, jos yksikin asukkaasta. Tässäkin on muistettava, että kohtelias hiljaisuus alkaa jo 21:00.
-
-## Hiljaisuuden poikkeukset
-
-Hiljaisuuspoikkeuksia on vain kaksi. Nämä ovat Kommuunin isot juhlat, jotka ovat halloween ja pikkujoulu. Tällöin hiljaisuus siirretään myöhemmäksi, mutta ei kuitenkaan yli keskiyön. Tästä muistutetaan vielä erikseen Kommuunin WhatsApp-ryhmässä. **Kommuunin juhlissa ei voi vaatia tai julistaa hiljaisuutta kello 22:00 jälkeen.** Juhlat kuitenkin loppuvat aina viimeistään keskiyöllä.
+Jos on tarvetta pitää melua kello 22:00 jälkeen, on siitä pyydettävä lupa WhatsApp-ryhmässä. Kello 22:00 jälkeen ei saa meluta, jos yksikin asukkaasta haluaa hiljaisuutta. Tässäkin on muistettava, että kohtelias hiljaisuus alkaa jo 21:00.
 
 ## Pesukone
 Pesukoneen ohjelman on päätyttävä kello 22:00.
