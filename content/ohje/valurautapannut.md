@@ -7,7 +7,7 @@ categories: ["ohjeet"]
 Yleiset ohjeet valurautapannuille:
 
   - Pese vedellä - voit käyttää myös hieman astianpesuainetta
-  - Kuivaa paperilla
+  - Kuivaa
   - Pyyhi ruokaöljyllä
   - Älä jätä märäksi
   - Älä jätä ruokaa pannuun
