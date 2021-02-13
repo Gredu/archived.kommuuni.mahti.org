@@ -6,18 +6,16 @@ categories: ["säännöt"]
 Yleiset tehtävät Kontulan Kommuunissa:
 
   - yleisten tilojen pyykkien pesu ja vaihtaminen
-  - vihreä suihkumatto suihkuhuoneessa
   - keittiön pöytäliina
   - kaikki kierrätettävät ja roskat (myöskin roska-astiat vessoissa ja suihkuhuoneessa), mutta ei bio
   - kuivauskaapin tyhjentäminen
   - ruokailuvälineiden kuivaamiseen tarkoitetun korin tyhjentäminen
   - käsisaippuan ja tiskiaineen täyttäminen
   - kaikkien [käytössä olevien kulutustuotteiden]({{< ref "/saanto/kaikille-yhteiset.md" >}}) ostaminen
+  - vessapaperien hyllyttäminen
 
 ## Yleisten tilojen pyykit
 Yleisten tilojen likaiset pyykit säilytetään suihkuhuoneen pyykkikorissa. Kaikki tässä pyykkikorissa olevat lakanat on pestävä 60 asteessa. Yleisperiaate sääntö on pestä pyykit siten, että kone tulee mahdollisimman täyteen. Yleisten tilojen pyykit ovat hyvä täyte, jos omat pyykit eivät täytä konetta. Samalla tulee säästäneeksi sähköä ja vettä. Lisää [ekologisuudesta]({{< ref "/ohje/ekologisuus-ja-kierratys.md" >}})
-
-Vihreä matto suihkuhuoneessa pestään 40 asteessa.
 
 Katso [ohjeet pesukoneen käyttöön]({{< ref "/ohje/pyykkien-pesu.md" >}}).
 
@@ -28,7 +26,7 @@ Keittiön pöytäliina vaihdetaan, kun on tarvetta. Puhtaita pöytäliinoja löy
 Roskat ja kierrätettävät viedään eteiseen. Seuraava joka lähtee ovesta ulos, vie eteisestä roskat roskikseen ja kierrätettävät niille tarkoitetuille kierrätyspisteille.
 
 ### Bio
-Biovuorolista on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle pois oman nimesi kohdalta. Jos seuraavana olevalla henkilöllä on punainen nappula, poista se ja hyppää hänen yli seuraavaan henkilöön.
+Biovuorolista on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle pois oman nimesi kohdalta. Jos seuraavalla henkilöllä on punainen nappula, poista se ja hyppää hänen yli seuraavaan.
 
 Punainen nappula on merkki siitä, että bion on vienyt ei-vuorossa ollut asukas. Jos viet bion kun ei ole vuorosi, laita punainen nappula nimesi kohdalle, jolloin seuraavalla vuorollasi sinun ei tarvitse viedä bioo. Punaisia nappuloita saa haalia niin paljon kuin haluaa.
 
@@ -39,7 +37,7 @@ Jos sinistä nappulaa siirtäessä tulee vastaan keltainen nappula, hyppää sen
 Biopussin koko on {{< bioSize >}} litraa.
 
 ## Tiskien kuivaus
-Tiskit kuivatetaan ensisijaisesti kuivaukseen tarkoitetussa kuivauskaapissa. Jos ei ole tilaa, poista kuivauskaapin kuivat astiat omiin säilytyshyllyhin. Jos tämänkään jälkeen ei ole tilaa kuivattaa, silloin kuivaus joko tiskipöydällä tai keittiönpöydällä. Kaikki kattilat ja astiat mahtuvat kuivaushyllyyn lukuunottamatta valurautapannua.
+Tiskit kuivatetaan ensisijaisesti kuivaukseen tarkoitetussa kuivauskaapissa. Jos ei ole tilaa, poista kaikki kuivauskaapin kuivat astiat omiin säilytyshyllyihin. Jos tämänkään jälkeen ei ole tilaa kuivattaa, voi kuivattaa joko tiskipöydällä tai keittiönpöydällä. Kaikki kattilat ja astiat mahtuvat kuivaushyllyyn lukuunottamatta valurautapannua.
 
 Hyvä idea on ottaa puhtaat astiat suoraan kuivauskaapista, jolloin kaappia tarvitsee tyhjentää harvemmin. Sama periaate koskee myös ruokailuvälineiden kuivaustelinettä.
 
