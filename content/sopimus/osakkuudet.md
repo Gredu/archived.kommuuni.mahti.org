@@ -9,6 +9,7 @@ Kun arkielämälle tärkeä laite hajoaa, vuokranantaja ei osta uutta tilalle. A
   - pakastin
   - imuri
   - liesituuletin
+  - modeemi
 
 Pesukoneen ostaminen tapahtuu äänestyksellä. Jos yksimielisesti äänestetään uuden pesukoneen hankkimisen puolesta, hankinnasta tulee aiemmin lueteltujen laitteiden tapamaan asukkaiden oma sopimus. Sama koskee tiskikonetta, jota ei tällä hetkellä ole kommuunissa.
 
@@ -16,9 +17,9 @@ Pesukone ja tiskikone eivät ole elämälle välttämättömiä laitteita. Kella
 
 ## Omistusosuuden lasku
 
-Joka kuukausi omistusosuudesta poistuu 4%. Tämä lasketaan suoraan poistamalla osakkuudesta 4%, ei siis inkrementaalisesti. Käytännössä tämä tarkoittaa sitä, että 50 kuukauden päästä laite on täysin Kontulan Kommuunin omaisuutta.
+Joka kuukausi omistusosuudesta poistuu 2%. Tämä lasketaan suoraan poistamalla osakkuudesta 2%, ei siis inkrementaalisesti. Käytännössä tämä tarkoittaa sitä, että 50 kuukauden päästä laite on täysin Kontulan Kommuunin omaisuutta.
 
-*4% pudotus on otettu helpottamaan uusien asukkaiden muuttoa Kommuuniin. Laitteet vanhenevat eivätkä ne muutenkaan pidä arvoaan samana kuin uutena.*
+*2% pudotus on otettu helpottamaan uusien asukkaiden muuttoa Kommuuniin. Laitteet vanhenevat eivätkä ne muutenkaan pidä arvoaan samana kuin uutena.*
 
 Mikäli Kommuuni lopetetaan, vuokranantaja ostaa kaikkien jäljellä olevat osuudet.
 
