@@ -5,11 +5,12 @@ categories: ["sopimukset"]
 ---
 Kun arkielämälle tärkeä laite hajoaa, vuokranantaja ei osta uutta tilalle. Asukkaat hankkivat uudet laitteet itse siten, että maksu jaetaan tasan. Tällöin jokainen asukas omistaa laitteesta 20%. Asukkaan muuttaessa pois, on uuden tulokkaan ostettava osuudet pois muuttavalta. Arkielämälle tärkeiksi laitteiksi lasketaan seuraavat laitteet:
 
-  - jääkaappi
-  - pakastin
   - imuri
+  - jääkaappi
+  - liesi / uuni
   - liesituuletin
   - modeemi
+  - pakastin
 
 Pesukoneen ostaminen tapahtuu äänestyksellä. Jos yksimielisesti äänestetään uuden pesukoneen hankkimisen puolesta, hankinnasta tulee aiemmin lueteltujen laitteiden tapamaan asukkaiden oma sopimus. Sama koskee tiskikonetta, jota ei tällä hetkellä ole kommuunissa.
 
